@@ -1,0 +1,614 @@
+[
+    {
+        "image_id":"synpic58999",
+        "question":"what is abnormal in the mri?",
+        "answer":"arachnoid cyst",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic58999.jpg"
+    },
+    {
+        "image_id":"synpic30698",
+        "question":"what is abnormal in the ct scan?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic30698.jpg"
+    },
+    {
+        "image_id":"synpic30701",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic30701.jpg"
+    },
+    {
+        "image_id":"synpic40860",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic40860.jpg"
+    },
+    {
+        "image_id":"synpic56034",
+        "question":"what abnormality is seen in the image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic56034.jpg"
+    },
+    {
+        "image_id":"synpic35615",
+        "question":"what abnormality is seen in the image?",
+        "answer":"tuberous sclerosis",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic35615.jpg"
+    },
+    {
+        "image_id":"synpic37692",
+        "question":"what is abnormal in the mri?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic37692.jpg"
+    },
+    {
+        "image_id":"synpic58469",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic58469.jpg"
+    },
+    {
+        "image_id":"synpic20753",
+        "question":"what is abnormal in the angiogram?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic20753.jpg"
+    },
+    {
+        "image_id":"synpic58492",
+        "question":"what is abnormal in the mri?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic58492.jpg"
+    },
+    {
+        "image_id":"synpic30700",
+        "question":"what is most alarming about this ct scan?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic30700.jpg"
+    },
+    {
+        "image_id":"synpic57196",
+        "question":"what is abnormal in the mri?",
+        "answer":"tuberous sclerosis",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic57196.jpg"
+    },
+    {
+        "image_id":"synpic20793",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"tuberous sclerosis",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic20793.jpg"
+    },
+    {
+        "image_id":"synpic35603",
+        "question":"what abnormality is seen in the image?",
+        "answer":"tuberous sclerosis",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic35603.jpg"
+    },
+    {
+        "image_id":"synpic33910",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic33910.jpg"
+    },
+    {
+        "image_id":"synpic52445",
+        "question":"what is abnormal in the mri?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic52445.jpg"
+    },
+    {
+        "image_id":"synpic60676",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"arachnoid cyst",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic60676.jpg"
+    },
+    {
+        "image_id":"synpic48668",
+        "question":"what is abnormal in the mri?",
+        "answer":"arachnoid cyst",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic48668.jpg"
+    },
+    {
+        "image_id":"synpic57200",
+        "question":"what abnormality is seen in the image?",
+        "answer":"tuberous sclerosis",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic57200.jpg"
+    },
+    {
+        "image_id":"synpic57204",
+        "question":"what abnormality is seen in the image?",
+        "answer":"tuberous sclerosis",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic57204.jpg"
+    },
+    {
+        "image_id":"synpic51913",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic51913.jpg"
+    },
+    {
+        "image_id":"synpic51842",
+        "question":"what is abnormal in the mri?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic51842.jpg"
+    },
+    {
+        "image_id":"synpic35606",
+        "question":"what is abnormal in the mri?",
+        "answer":"tuberous sclerosis",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic35606.jpg"
+    },
+    {
+        "image_id":"synpic51567",
+        "question":"what is most alarming about this mri?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic51567.jpg"
+    },
+    {
+        "image_id":"synpic36934",
+        "question":"what is most alarming about this mri?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic36934.jpg"
+    },
+    {
+        "image_id":"synpic53986",
+        "question":"what is abnormal in the mri?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic53986.jpg"
+    },
+    {
+        "image_id":"synpic35854",
+        "question":"what abnormality is seen in the image?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic35854.jpg"
+    },
+    {
+        "image_id":"synpic56405",
+        "question":"what is abnormal in the mri?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic56405.jpg"
+    },
+    {
+        "image_id":"synpic24599",
+        "question":"what is abnormal in the mri?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic24599.jpg"
+    },
+    {
+        "image_id":"synpic45152",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic45152.jpg"
+    },
+    {
+        "image_id":"synpic30706",
+        "question":"what is most alarming about this ct scan?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic30706.jpg"
+    },
+    {
+        "image_id":"synpic36431",
+        "question":"what is abnormal in the mri?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic36431.jpg"
+    },
+    {
+        "image_id":"synpic52438",
+        "question":"what abnormality is seen in the image?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic52438.jpg"
+    },
+    {
+        "image_id":"synpic58470",
+        "question":"what is most alarming about this mri?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic58470.jpg"
+    },
+    {
+        "image_id":"synpic48741",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic48741.jpg"
+    },
+    {
+        "image_id":"synpic45147",
+        "question":"what abnormality is seen in the image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic45147.jpg"
+    },
+    {
+        "image_id":"synpic35607",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"tuberous sclerosis",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic35607.jpg"
+    },
+    {
+        "image_id":"synpic36938",
+        "question":"what is most alarming about this mri?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic36938.jpg"
+    },
+    {
+        "image_id":"synpic46836",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic46836.jpg"
+    },
+    {
+        "image_id":"synpic37689",
+        "question":"what abnormality is seen in the image?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic37689.jpg"
+    },
+    {
+        "image_id":"synpic39607",
+        "question":"what is abnormal in the mri?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic39607.jpg"
+    },
+    {
+        "image_id":"synpic48667",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"arachnoid cyst",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic48667.jpg"
+    },
+    {
+        "image_id":"synpic58481",
+        "question":"what abnormality is seen in the image?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic58481.jpg"
+    },
+    {
+        "image_id":"synpic35849",
+        "question":"what is abnormal in the mri?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic35849.jpg"
+    },
+    {
+        "image_id":"synpic44936",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"arachnoid cyst",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic44936.jpg"
+    },
+    {
+        "image_id":"synpic56572",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"arachnoid cyst",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic56572.jpg"
+    },
+    {
+        "image_id":"synpic26605",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic26605.jpg"
+    },
+    {
+        "image_id":"synpic19454",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic19454.jpg"
+    },
+    {
+        "image_id":"synpic44943",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"arachnoid cyst",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic44943.jpg"
+    },
+    {
+        "image_id":"synpic53788",
+        "question":"what abnormality is seen in the image?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic53788.jpg"
+    },
+    {
+        "image_id":"synpic48672",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"arachnoid cyst",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic48672.jpg"
+    },
+    {
+        "image_id":"synpic58475",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic58475.jpg"
+    },
+    {
+        "image_id":"synpic26575",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"arachnoid cyst",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic26575.jpg"
+    },
+    {
+        "image_id":"synpic56573",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"arachnoid cyst",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic56573.jpg"
+    },
+    {
+        "image_id":"synpic28031",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic28031.jpg"
+    },
+    {
+        "image_id":"synpic48023",
+        "question":"what is abnormal in the mri?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic48023.jpg"
+    },
+    {
+        "image_id":"synpic35242",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"tuberous sclerosis",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic35242.jpg"
+    },
+    {
+        "image_id":"synpic30722",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic30722.jpg"
+    },
+    {
+        "image_id":"synpic53311",
+        "question":"what abnormality is seen in the image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic53311.jpg"
+    },
+    {
+        "image_id":"synpic56035",
+        "question":"what is most alarming about this mri?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic56035.jpg"
+    },
+    {
+        "image_id":"synpic58466",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic58466.jpg"
+    },
+    {
+        "image_id":"synpic52551",
+        "question":"what abnormality is seen in the image?",
+        "answer":"tuberous sclerosis",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic52551.jpg"
+    },
+    {
+        "image_id":"synpic36936",
+        "question":"what is abnormal in the mri?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic36936.jpg"
+    },
+    {
+        "image_id":"synpic48020",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic48020.jpg"
+    },
+    {
+        "image_id":"synpic52545",
+        "question":"what is abnormal in the mri?",
+        "answer":"tuberous sclerosis",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic52545.jpg"
+    },
+    {
+        "image_id":"synpic48754",
+        "question":"what abnormality is seen in the image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic48754.jpg"
+    },
+    {
+        "image_id":"synpic33373",
+        "question":"what is most alarming about this ct scan?",
+        "answer":"arachnoid cyst",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic33373.jpg"
+    },
+    {
+        "image_id":"synpic30717",
+        "question":"what abnormality is seen in the image?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic30717.jpg"
+    },
+    {
+        "image_id":"synpic35235",
+        "question":"what is abnormal in the mri?",
+        "answer":"arachnoid cyst",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic35235.jpg"
+    },
+    {
+        "image_id":"synpic51912",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic51912.jpg"
+    },
+    {
+        "image_id":"synpic17898",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic17898.jpg"
+    },
+    {
+        "image_id":"synpic20748",
+        "question":"what abnormality is seen in the image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic20748.jpg"
+    },
+    {
+        "image_id":"synpic56412",
+        "question":"what is abnormal in the ct scan?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic56412.jpg"
+    },
+    {
+        "image_id":"synpic40836",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic40836.jpg"
+    },
+    {
+        "image_id":"synpic51293",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic51293.jpg"
+    },
+    {
+        "image_id":"synpic56406",
+        "question":"what abnormality is seen in the image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic56406.jpg"
+    },
+    {
+        "image_id":"synpic52440",
+        "question":"what abnormality is seen in the image?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic52440.jpg"
+    },
+    {
+        "image_id":"synpic35243",
+        "question":"what abnormality is seen in the image?",
+        "answer":"tuberous sclerosis",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic35243.jpg"
+    },
+    {
+        "image_id":"synpic26603",
+        "question":"what abnormality is seen in the image?",
+        "answer":"meningioma",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic26603.jpg"
+    },
+    {
+        "image_id":"synpic53076",
+        "question":"what abnormality is seen in the image?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic53076.jpg"
+    },
+    {
+        "image_id":"synpic35347",
+        "question":"what is most alarming about this mri?",
+        "answer":"arachnoid cyst",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic35347.jpg"
+    },
+    {
+        "image_id":"synpic31831",
+        "question":"what abnormality is seen in the image?",
+        "answer":"tuberous sclerosis",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic31831.jpg"
+    },
+    {
+        "image_id":"synpic53779",
+        "question":"what is the primary abnormality in this image?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic53779.jpg"
+    },
+    {
+        "image_id":"synpic58471",
+        "question":"what is abnormal in the mri?",
+        "answer":"glioblastoma multiforme",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic58471.jpg"
+    },
+    {
+        "image_id":"synpic36499",
+        "question":"is the x-ray normal?",
+        "answer":"yes",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic36499.jpg"
+    },
+    {
+        "image_id":"synpic58453",
+        "question":"is there evidence of any abnormalities?",
+        "answer":"no",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic58453.jpg"
+    },
+    {
+        "image_id":"synpic36489",
+        "question":"is this a normal x-ray?",
+        "answer":"yes",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic36489.jpg"
+    },
+    {
+        "image_id":"synpic54544",
+        "question":"is there something wrong in the image?",
+        "answer":"no",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic54544.jpg"
+    },
+    {
+        "image_id":"synpic16121",
+        "question":"are there abnormalities in this ct scan?",
+        "answer":"no",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic16121.jpg"
+    },
+    {
+        "image_id":"synpic48035",
+        "question":"is there an abnormality in the ct scan?",
+        "answer":"no",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic48035.jpg"
+    },
+    {
+        "image_id":"synpic48039",
+        "question":"is the ct scan normal?",
+        "answer":"yes",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic48039.jpg"
+    },
+    {
+        "image_id":"synpic54541",
+        "question":"is the nuclear medicine image normal?",
+        "answer":"yes",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic54541.jpg"
+    },
+    {
+        "image_id":"synpic54894",
+        "question":"is there evidence of any abnormalities?",
+        "answer":"no",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic54894.jpg"
+    },
+    {
+        "image_id":"synpic16120",
+        "question":"is there an abnormality in the ct scan?",
+        "answer":"no",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic16120.jpg"
+    },
+    {
+        "image_id":"synpic16122",
+        "question":"is this a normal ct scan?",
+        "answer":"yes",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic16122.jpg"
+    },
+    {
+        "image_id":"synpic54895",
+        "question":"is this a normal mri?",
+        "answer":"yes",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic54895.jpg"
+    },
+    {
+        "image_id":"synpic17687",
+        "question":"is this a normal mri?",
+        "answer":"yes",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic17687.jpg"
+    },
+    {
+        "image_id":"synpic54543",
+        "question":"does this image look normal?",
+        "answer":"yes",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic54543.jpg"
+    },
+    {
+        "image_id":"synpic54892",
+        "question":"are there abnormalities in this mri?",
+        "answer":"no",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic54892.jpg"
+    },
+    {
+        "image_id":"synpic54898",
+        "question":"is there evidence of any abnormalities?",
+        "answer":"no",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic54898.jpg"
+    },
+    {
+        "image_id":"synpic48036",
+        "question":"is the ct scan normal?",
+        "answer":"yes",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic48036.jpg"
+    },
+    {
+        "image_id":"synpic54897",
+        "question":"is there an abnormality in the mri?",
+        "answer":"no",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/synpic54897.jpg"
+    }
+]
