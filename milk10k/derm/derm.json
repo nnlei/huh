@@ -1398,5 +1398,705 @@
         "isic_id":"ISIC_9791119",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/bkl/ISIC_9791119.jpg"
+    },
+    {
+        "id":"IL_0008891",
+        "rule":"Nevus, Congenital",
+        "isic_id":"ISIC_5916190",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_5916190.jpg"
+    },
+    {
+        "id":"IL_0024228",
+        "rule":"Nevus, NOS, Dermal",
+        "isic_id":"ISIC_8870441",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_8870441.jpg"
+    },
+    {
+        "id":"IL_0047878",
+        "rule":"Blue nevus",
+        "isic_id":"ISIC_0433706",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_0433706.jpg"
+    },
+    {
+        "id":"IL_0074413",
+        "rule":"Nevus",
+        "isic_id":"ISIC_4980158",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_4980158.jpg"
+    },
+    {
+        "id":"IL_0076321",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_8015399",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_8015399.jpg"
+    },
+    {
+        "id":"IL_0082869",
+        "rule":"Nevus, Acral",
+        "isic_id":"ISIC_2473856",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_2473856.jpg"
+    },
+    {
+        "id":"IL_0083505",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_8736820",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_8736820.jpg"
+    },
+    {
+        "id":"IL_0098895",
+        "rule":"Nevus, BAP-1 deficient",
+        "isic_id":"ISIC_7778161",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_7778161.jpg"
+    },
+    {
+        "id":"IL_0108201",
+        "rule":"Nevus",
+        "isic_id":"ISIC_8804250",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_8804250.jpg"
+    },
+    {
+        "id":"IL_0127859",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_5412550",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_5412550.jpg"
+    },
+    {
+        "id":"IL_0210528",
+        "rule":"Nevus, NOS, Dermal",
+        "isic_id":"ISIC_5562336",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_5562336.jpg"
+    },
+    {
+        "id":"IL_0217482",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_7149626",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_7149626.jpg"
+    },
+    {
+        "id":"IL_0218965",
+        "rule":"Nevus, NOS, Junctional",
+        "isic_id":"ISIC_9183794",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_9183794.jpg"
+    },
+    {
+        "id":"IL_0245024",
+        "rule":"Nevus",
+        "isic_id":"ISIC_6141356",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_6141356.jpg"
+    },
+    {
+        "id":"IL_0256138",
+        "rule":"Nevus, NOS, Junctional",
+        "isic_id":"ISIC_1291833",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_1291833.jpg"
+    },
+    {
+        "id":"IL_0257486",
+        "rule":"Nevus, Congenital",
+        "isic_id":"ISIC_6563965",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_6563965.jpg"
+    },
+    {
+        "id":"IL_0306057",
+        "rule":"Nevus, Combined",
+        "isic_id":"ISIC_9340414",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_9340414.jpg"
+    },
+    {
+        "id":"IL_0321969",
+        "rule":"Nevus",
+        "isic_id":"ISIC_9579888",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_9579888.jpg"
+    },
+    {
+        "id":"IL_0330449",
+        "rule":"Nevus",
+        "isic_id":"ISIC_7931618",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_7931618.jpg"
+    },
+    {
+        "id":"IL_0336381",
+        "rule":"Nevus, NOS, Junctional",
+        "isic_id":"ISIC_1472958",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_1472958.jpg"
+    },
+    {
+        "id":"IL_0343240",
+        "rule":"Nevus, Spitz",
+        "isic_id":"ISIC_5728294",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_5728294.jpg"
+    },
+    {
+        "id":"IL_0349058",
+        "rule":"Nevus",
+        "isic_id":"ISIC_6339347",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_6339347.jpg"
+    },
+    {
+        "id":"IL_0350485",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_5218005",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_5218005.jpg"
+    },
+    {
+        "id":"IL_0391966",
+        "rule":"Nevus",
+        "isic_id":"ISIC_6278944",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_6278944.jpg"
+    },
+    {
+        "id":"IL_0401155",
+        "rule":"Nevus",
+        "isic_id":"ISIC_7941055",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_7941055.jpg"
+    },
+    {
+        "id":"IL_0409175",
+        "rule":"Nevus",
+        "isic_id":"ISIC_3589220",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_3589220.jpg"
+    },
+    {
+        "id":"IL_0416544",
+        "rule":"Nevus",
+        "isic_id":"ISIC_1895471",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_1895471.jpg"
+    },
+    {
+        "id":"IL_0424747",
+        "rule":"Nevus, Spitz",
+        "isic_id":"ISIC_3642704",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_3642704.jpg"
+    },
+    {
+        "id":"IL_0432586",
+        "rule":"Nevus",
+        "isic_id":"ISIC_4442378",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_4442378.jpg"
+    },
+    {
+        "id":"IL_0444889",
+        "rule":"Nevus, Spitz",
+        "isic_id":"ISIC_3157648",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_3157648.jpg"
+    },
+    {
+        "id":"IL_0449677",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_6394582",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_6394582.jpg"
+    },
+    {
+        "id":"IL_0455273",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_4872496",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_4872496.jpg"
+    },
+    {
+        "id":"IL_0466626",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_1699010",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_1699010.jpg"
+    },
+    {
+        "id":"IL_0469511",
+        "rule":"Nevus, NOS, Junctional",
+        "isic_id":"ISIC_5475721",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_5475721.jpg"
+    },
+    {
+        "id":"IL_0486701",
+        "rule":"Blue nevus",
+        "isic_id":"ISIC_2765997",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_2765997.jpg"
+    },
+    {
+        "id":"IL_0487689",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_4640009",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_4640009.jpg"
+    },
+    {
+        "id":"IL_0515398",
+        "rule":"Blue nevus",
+        "isic_id":"ISIC_8509874",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_8509874.jpg"
+    },
+    {
+        "id":"IL_0519375",
+        "rule":"Nevus",
+        "isic_id":"ISIC_2577644",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_2577644.jpg"
+    },
+    {
+        "id":"IL_0525024",
+        "rule":"Nevus",
+        "isic_id":"ISIC_1591432",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_1591432.jpg"
+    },
+    {
+        "id":"IL_0540027",
+        "rule":"Nevus, NOS, Dermal",
+        "isic_id":"ISIC_5032675",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_5032675.jpg"
+    },
+    {
+        "id":"IL_0550268",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_8815245",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_8815245.jpg"
+    },
+    {
+        "id":"IL_0583979",
+        "rule":"Nevus",
+        "isic_id":"ISIC_6420151",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_6420151.jpg"
+    },
+    {
+        "id":"IL_0605964",
+        "rule":"Nevus",
+        "isic_id":"ISIC_8294897",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_8294897.jpg"
+    },
+    {
+        "id":"IL_0610557",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_9011764",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_9011764.jpg"
+    },
+    {
+        "id":"IL_0614048",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_4083158",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_4083158.jpg"
+    },
+    {
+        "id":"IL_0618534",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_5017355",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_5017355.jpg"
+    },
+    {
+        "id":"IL_0621333",
+        "rule":"Nevus, NOS, Junctional",
+        "isic_id":"ISIC_3558339",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_3558339.jpg"
+    },
+    {
+        "id":"IL_0628495",
+        "rule":"Nevus, NOS, Dermal",
+        "isic_id":"ISIC_3374597",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_3374597.jpg"
+    },
+    {
+        "id":"IL_0630515",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_6972742",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_6972742.jpg"
+    },
+    {
+        "id":"IL_0636666",
+        "rule":"Nevus",
+        "isic_id":"ISIC_8564627",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_8564627.jpg"
+    },
+    {
+        "id":"IL_0662515",
+        "rule":"Nevus",
+        "isic_id":"ISIC_7278376",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_7278376.jpg"
+    },
+    {
+        "id":"IL_0681349",
+        "rule":"Nevus, NOS, Junctional",
+        "isic_id":"ISIC_7647712",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_7647712.jpg"
+    },
+    {
+        "id":"IL_0682550",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_1532506",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_1532506.jpg"
+    },
+    {
+        "id":"IL_0699958",
+        "rule":"Nevus",
+        "isic_id":"ISIC_0815023",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_0815023.jpg"
+    },
+    {
+        "id":"IL_0713847",
+        "rule":"Nevus, Acral",
+        "isic_id":"ISIC_6347753",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_6347753.jpg"
+    },
+    {
+        "id":"IL_0717553",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_1536397",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_1536397.jpg"
+    },
+    {
+        "id":"IL_0739777",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_1756915",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_1756915.jpg"
+    },
+    {
+        "id":"IL_0744189",
+        "rule":"Nevus, Acral",
+        "isic_id":"ISIC_9973379",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_9973379.jpg"
+    },
+    {
+        "id":"IL_0758314",
+        "rule":"Nevus",
+        "isic_id":"ISIC_7235047",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_7235047.jpg"
+    },
+    {
+        "id":"IL_0772858",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_3288032",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_3288032.jpg"
+    },
+    {
+        "id":"IL_0786469",
+        "rule":"Nevus, NOS, Junctional",
+        "isic_id":"ISIC_5052804",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_5052804.jpg"
+    },
+    {
+        "id":"IL_0788438",
+        "rule":"Nevus",
+        "isic_id":"ISIC_6987320",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_6987320.jpg"
+    },
+    {
+        "id":"IL_0793440",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_1815891",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_1815891.jpg"
+    },
+    {
+        "id":"IL_0797165",
+        "rule":"Nevus, Reed",
+        "isic_id":"ISIC_0597607",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_0597607.jpg"
+    },
+    {
+        "id":"IL_0809191",
+        "rule":"Nevus, Congenital",
+        "isic_id":"ISIC_8199024",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_8199024.jpg"
+    },
+    {
+        "id":"IL_0817869",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_5587236",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_5587236.jpg"
+    },
+    {
+        "id":"IL_0826473",
+        "rule":"Nevus, Acral",
+        "isic_id":"ISIC_5194644",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_5194644.jpg"
+    },
+    {
+        "id":"IL_0844801",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_4112456",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_4112456.jpg"
+    },
+    {
+        "id":"IL_0848948",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_7876616",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_7876616.jpg"
+    },
+    {
+        "id":"IL_0860042",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_8660210",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_8660210.jpg"
+    },
+    {
+        "id":"IL_0872477",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_8771453",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_8771453.jpg"
+    },
+    {
+        "id":"IL_0872966",
+        "rule":"Nevus, NOS, Junctional",
+        "isic_id":"ISIC_8837131",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_8837131.jpg"
+    },
+    {
+        "id":"IL_0883387",
+        "rule":"Nevus",
+        "isic_id":"ISIC_4246393",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_4246393.jpg"
+    },
+    {
+        "id":"IL_0887241",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_9696099",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_9696099.jpg"
+    },
+    {
+        "id":"IL_0890305",
+        "rule":"Nevus, NOS, Junctional",
+        "isic_id":"ISIC_3468757",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_3468757.jpg"
+    },
+    {
+        "id":"IL_0909755",
+        "rule":"Nevus, NOS, Dermal",
+        "isic_id":"ISIC_9890254",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_9890254.jpg"
+    },
+    {
+        "id":"IL_0913190",
+        "rule":"Nevus, NOS, Dermal",
+        "isic_id":"ISIC_9415992",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_9415992.jpg"
+    },
+    {
+        "id":"IL_0913483",
+        "rule":"Nevus, NOS, Dermal",
+        "isic_id":"ISIC_4622192",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_4622192.jpg"
+    },
+    {
+        "id":"IL_0926236",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_2745537",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_2745537.jpg"
+    },
+    {
+        "id":"IL_0930071",
+        "rule":"Nevus",
+        "isic_id":"ISIC_5766792",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_5766792.jpg"
+    },
+    {
+        "id":"IL_0945198",
+        "rule":"Nevus, NOS, Junctional",
+        "isic_id":"ISIC_6685424",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_6685424.jpg"
+    },
+    {
+        "id":"IL_0952894",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_5063002",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_5063002.jpg"
+    },
+    {
+        "id":"IL_0960760",
+        "rule":"Nevus",
+        "isic_id":"ISIC_7452466",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_7452466.jpg"
+    },
+    {
+        "id":"IL_0965686",
+        "rule":"Nevus, NOS, Junctional",
+        "isic_id":"ISIC_8216653",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_8216653.jpg"
+    },
+    {
+        "id":"IL_0965927",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_5713218",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_5713218.jpg"
+    },
+    {
+        "id":"IL_0966806",
+        "rule":"Nevus",
+        "isic_id":"ISIC_7116014",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_7116014.jpg"
+    },
+    {
+        "id":"IL_0974592",
+        "rule":"Nevus",
+        "isic_id":"ISIC_7231732",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_7231732.jpg"
+    },
+    {
+        "id":"IL_0978342",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_0767613",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_0767613.jpg"
+    },
+    {
+        "id":"IL_1024518",
+        "rule":"Nevus, Reed",
+        "isic_id":"ISIC_6195604",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_6195604.jpg"
+    },
+    {
+        "id":"IL_1030040",
+        "rule":"Nevus, NOS, Junctional",
+        "isic_id":"ISIC_1408695",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_1408695.jpg"
+    },
+    {
+        "id":"IL_1037790",
+        "rule":"Nevus",
+        "isic_id":"ISIC_4700918",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_4700918.jpg"
+    },
+    {
+        "id":"IL_1038225",
+        "rule":"Nevus",
+        "isic_id":"ISIC_7272469",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_7272469.jpg"
+    },
+    {
+        "id":"IL_1050335",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_9853363",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_9853363.jpg"
+    },
+    {
+        "id":"IL_1057711",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_8012264",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_8012264.jpg"
+    },
+    {
+        "id":"IL_1062224",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_5744011",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_5744011.jpg"
+    },
+    {
+        "id":"IL_1066260",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_4228893",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_4228893.jpg"
+    },
+    {
+        "id":"IL_1077035",
+        "rule":"Nevus, Combined",
+        "isic_id":"ISIC_1364390",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_1364390.jpg"
+    },
+    {
+        "id":"IL_1077349",
+        "rule":"Blue nevus",
+        "isic_id":"ISIC_1859626",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_1859626.jpg"
+    },
+    {
+        "id":"IL_1087504",
+        "rule":"Nevus",
+        "isic_id":"ISIC_1763947",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_1763947.jpg"
+    },
+    {
+        "id":"IL_1105307",
+        "rule":"Nevus, NOS, Compound",
+        "isic_id":"ISIC_8121619",
+        "class":"nev",
+        "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/derm/images/nev/ISIC_8121619.jpg"
     }
 ]
