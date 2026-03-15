@@ -1,1400 +1,1400 @@
 [
     {
         "id":"IL_0019655",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_1660154",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_1660154.jpg"
     },
     {
         "id":"IL_0029019",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_0402893",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_0402893.jpg"
     },
     {
         "id":"IL_0041758",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_4499437",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_4499437.jpg"
     },
     {
         "id":"IL_0044468",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_5047383",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_5047383.jpg"
     },
     {
         "id":"IL_0080398",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_5100065",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_5100065.jpg"
     },
     {
         "id":"IL_0092622",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_4065657",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_4065657.jpg"
     },
     {
         "id":"IL_0134998",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_8788500",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_8788500.jpg"
     },
     {
         "id":"IL_0149726",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_3701587",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_3701587.jpg"
     },
     {
         "id":"IL_0158496",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_6748961",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_6748961.jpg"
     },
     {
         "id":"IL_0159486",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_4961582",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_4961582.jpg"
     },
     {
         "id":"IL_0181682",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_0594231",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_0594231.jpg"
     },
     {
         "id":"IL_0192026",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_1666674",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_1666674.jpg"
     },
     {
         "id":"IL_0203872",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_4597624",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_4597624.jpg"
     },
     {
         "id":"IL_0218048",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_3843458",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_3843458.jpg"
     },
     {
         "id":"IL_0328020",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_0473678",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_0473678.jpg"
     },
     {
         "id":"IL_0331680",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_1850255",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_1850255.jpg"
     },
     {
         "id":"IL_0335647",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_1058937",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_1058937.jpg"
     },
     {
         "id":"IL_0375356",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_0490117",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_0490117.jpg"
     },
     {
         "id":"IL_0382638",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_6467926",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_6467926.jpg"
     },
     {
         "id":"IL_0387029",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_3966507",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_3966507.jpg"
     },
     {
         "id":"IL_0404523",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_7757000",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_7757000.jpg"
     },
     {
         "id":"IL_0405680",
-        "diagnosis_full":"Melanoma metastasis",
+        "rule":"Melanoma metastasis",
         "isic_id":"ISIC_9850628",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_9850628.jpg"
     },
     {
         "id":"IL_0406808",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_1154207",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_1154207.jpg"
     },
     {
         "id":"IL_0433789",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_6343807",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_6343807.jpg"
     },
     {
         "id":"IL_0436411",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_8463692",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_8463692.jpg"
     },
     {
         "id":"IL_0436732",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_0402070",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_0402070.jpg"
     },
     {
         "id":"IL_0446787",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_3034620",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_3034620.jpg"
     },
     {
         "id":"IL_0465605",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_1362488",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_1362488.jpg"
     },
     {
         "id":"IL_0477847",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_6393409",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_6393409.jpg"
     },
     {
         "id":"IL_0499462",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_8273914",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_8273914.jpg"
     },
     {
         "id":"IL_0588181",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_2016658",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_2016658.jpg"
     },
     {
         "id":"IL_0588456",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_7661066",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_7661066.jpg"
     },
     {
         "id":"IL_0604713",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_2445691",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_2445691.jpg"
     },
     {
         "id":"IL_0624945",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_4194491",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_4194491.jpg"
     },
     {
         "id":"IL_0625469",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_7033406",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_7033406.jpg"
     },
     {
         "id":"IL_0653434",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_3369429",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_3369429.jpg"
     },
     {
         "id":"IL_0683634",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_9546201",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_9546201.jpg"
     },
     {
         "id":"IL_0701362",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_6705033",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_6705033.jpg"
     },
     {
         "id":"IL_0718275",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_5341584",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_5341584.jpg"
     },
     {
         "id":"IL_0752303",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_2508558",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_2508558.jpg"
     },
     {
         "id":"IL_0758206",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_5120336",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_5120336.jpg"
     },
     {
         "id":"IL_0783886",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_8178616",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_8178616.jpg"
     },
     {
         "id":"IL_0787420",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_7308766",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_7308766.jpg"
     },
     {
         "id":"IL_0807223",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_1926637",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_1926637.jpg"
     },
     {
         "id":"IL_0807390",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_2089740",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_2089740.jpg"
     },
     {
         "id":"IL_0810155",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_4040199",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_4040199.jpg"
     },
     {
         "id":"IL_0819034",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_1858790",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_1858790.jpg"
     },
     {
         "id":"IL_0823685",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_9344767",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_9344767.jpg"
     },
     {
         "id":"IL_0848676",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_2395293",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_2395293.jpg"
     },
     {
         "id":"IL_0855898",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_2397388",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_2397388.jpg"
     },
     {
         "id":"IL_0858380",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_3651770",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_3651770.jpg"
     },
     {
         "id":"IL_0877533",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_7982662",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_7982662.jpg"
     },
     {
         "id":"IL_0911506",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_7904583",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_7904583.jpg"
     },
     {
         "id":"IL_0927709",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_5367270",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_5367270.jpg"
     },
     {
         "id":"IL_1001591",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_1823276",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_1823276.jpg"
     },
     {
         "id":"IL_1003728",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_3308945",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_3308945.jpg"
     },
     {
         "id":"IL_1016151",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_8635734",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_8635734.jpg"
     },
     {
         "id":"IL_1026804",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_1037712",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_1037712.jpg"
     },
     {
         "id":"IL_1027638",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_3225587",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_3225587.jpg"
     },
     {
         "id":"IL_1030671",
-        "diagnosis_full":"Melanoma metastasis",
+        "rule":"Melanoma metastasis",
         "isic_id":"ISIC_0782621",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_0782621.jpg"
     },
     {
         "id":"IL_1039753",
-        "diagnosis_full":"Melanoma metastasis",
+        "rule":"Melanoma metastasis",
         "isic_id":"ISIC_1509602",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_1509602.jpg"
     },
     {
         "id":"IL_1062117",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_5494808",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_5494808.jpg"
     },
     {
         "id":"IL_1065158",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_9776410",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_9776410.jpg"
     },
     {
         "id":"IL_1075649",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_8949240",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_8949240.jpg"
     },
     {
         "id":"IL_1075740",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_9260804",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_9260804.jpg"
     },
     {
         "id":"IL_1097416",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_3195835",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_3195835.jpg"
     },
     {
         "id":"IL_1102266",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_3408726",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_3408726.jpg"
     },
     {
         "id":"IL_1159424",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_9486029",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_9486029.jpg"
     },
     {
         "id":"IL_1212389",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_2784330",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_2784330.jpg"
     },
     {
         "id":"IL_1242369",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_1624532",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_1624532.jpg"
     },
     {
         "id":"IL_1249286",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_2211437",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_2211437.jpg"
     },
     {
         "id":"IL_1275816",
-        "diagnosis_full":"Melanoma metastasis",
+        "rule":"Melanoma metastasis",
         "isic_id":"ISIC_9250861",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_9250861.jpg"
     },
     {
         "id":"IL_1300499",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_9544557",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_9544557.jpg"
     },
     {
         "id":"IL_1320390",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_6862130",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_6862130.jpg"
     },
     {
         "id":"IL_1328121",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_7079437",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_7079437.jpg"
     },
     {
         "id":"IL_1405890",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_3903505",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_3903505.jpg"
     },
     {
         "id":"IL_1427039",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_0765311",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_0765311.jpg"
     },
     {
         "id":"IL_1445099",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_2396618",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_2396618.jpg"
     },
     {
         "id":"IL_1446570",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_5953696",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_5953696.jpg"
     },
     {
         "id":"IL_1456101",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_2695703",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_2695703.jpg"
     },
     {
         "id":"IL_1478833",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_6857013",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_6857013.jpg"
     },
     {
         "id":"IL_1546321",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_2616510",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_2616510.jpg"
     },
     {
         "id":"IL_1576423",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_6421198",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_6421198.jpg"
     },
     {
         "id":"IL_1621058",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_1129242",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_1129242.jpg"
     },
     {
         "id":"IL_1622119",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_9308029",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_9308029.jpg"
     },
     {
         "id":"IL_1627026",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_5205572",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_5205572.jpg"
     },
     {
         "id":"IL_1711238",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_7115215",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_7115215.jpg"
     },
     {
         "id":"IL_1734179",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_8054114",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_8054114.jpg"
     },
     {
         "id":"IL_1782345",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_7729398",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_7729398.jpg"
     },
     {
         "id":"IL_1799297",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_1325809",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_1325809.jpg"
     },
     {
         "id":"IL_1817922",
-        "diagnosis_full":"Melanoma in situ",
+        "rule":"Melanoma in situ",
         "isic_id":"ISIC_9467067",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_9467067.jpg"
     },
     {
         "id":"IL_1833955",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_6997256",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_6997256.jpg"
     },
     {
         "id":"IL_1844435",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_5475497",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_5475497.jpg"
     },
     {
         "id":"IL_1848853",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_1331527",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_1331527.jpg"
     },
     {
         "id":"IL_1857472",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_5478943",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_5478943.jpg"
     },
     {
         "id":"IL_1882056",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_4071700",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_4071700.jpg"
     },
     {
         "id":"IL_1886112",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_3890513",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_3890513.jpg"
     },
     {
         "id":"IL_1943704",
-        "diagnosis_full":"Melanoma metastasis",
+        "rule":"Melanoma metastasis",
         "isic_id":"ISIC_8417980",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_8417980.jpg"
     },
     {
         "id":"IL_1962885",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_1494360",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_1494360.jpg"
     },
     {
         "id":"IL_1970176",
-        "diagnosis_full":"Melanoma Invasive",
+        "rule":"Melanoma Invasive",
         "isic_id":"ISIC_6834207",
         "class":"mel",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/mel/ISIC_6834207.jpg"
     },
     {
         "id":"IL_0017483",
-        "diagnosis_full":"Solar lentigo",
+        "rule":"Solar lentigo",
         "isic_id":"ISIC_9923124",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_9923124.jpg"
     },
     {
         "id":"IL_0020208",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_0652620",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_0652620.jpg"
     },
     {
         "id":"IL_0076383",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_1889858",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_1889858.jpg"
     },
     {
         "id":"IL_0076523",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_6171480",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_6171480.jpg"
     },
     {
         "id":"IL_0087252",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_2084498",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_2084498.jpg"
     },
     {
         "id":"IL_0087637",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_6479651",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_6479651.jpg"
     },
     {
         "id":"IL_0097757",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_1140407",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_1140407.jpg"
     },
     {
         "id":"IL_0097908",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_6364449",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_6364449.jpg"
     },
     {
         "id":"IL_0121735",
-        "diagnosis_full":"Solar lentigo",
+        "rule":"Solar lentigo",
         "isic_id":"ISIC_9627993",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_9627993.jpg"
     },
     {
         "id":"IL_0126015",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_5817638",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_5817638.jpg"
     },
     {
         "id":"IL_0169358",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_0560217",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_0560217.jpg"
     },
     {
         "id":"IL_0172774",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_1432476",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_1432476.jpg"
     },
     {
         "id":"IL_0185291",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_2284535",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_2284535.jpg"
     },
     {
         "id":"IL_0201884",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_7381334",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_7381334.jpg"
     },
     {
         "id":"IL_0210628",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_9619047",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_9619047.jpg"
     },
     {
         "id":"IL_0244045",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_6402697",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_6402697.jpg"
     },
     {
         "id":"IL_0247404",
-        "diagnosis_full":"Solar lentigo",
+        "rule":"Solar lentigo",
         "isic_id":"ISIC_6728668",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_6728668.jpg"
     },
     {
         "id":"IL_0264320",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_6831182",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_6831182.jpg"
     },
     {
         "id":"IL_0275953",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_7106496",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_7106496.jpg"
     },
     {
         "id":"IL_0295689",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_8899742",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_8899742.jpg"
     },
     {
         "id":"IL_0306410",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_8373898",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_8373898.jpg"
     },
     {
         "id":"IL_0333209",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_1607939",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_1607939.jpg"
     },
     {
         "id":"IL_0367894",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_7393664",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_7393664.jpg"
     },
     {
         "id":"IL_0368835",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_1747657",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_1747657.jpg"
     },
     {
         "id":"IL_0395409",
-        "diagnosis_full":"Solar lentigo",
+        "rule":"Solar lentigo",
         "isic_id":"ISIC_8198645",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_8198645.jpg"
     },
     {
         "id":"IL_0404248",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_9879446",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_9879446.jpg"
     },
     {
         "id":"IL_0419410",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_0538851",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_0538851.jpg"
     },
     {
         "id":"IL_0428010",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_2340822",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_2340822.jpg"
     },
     {
         "id":"IL_0434993",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_6699904",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_6699904.jpg"
     },
     {
         "id":"IL_0443396",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_6063928",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_6063928.jpg"
     },
     {
         "id":"IL_0443862",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_4868603",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_4868603.jpg"
     },
     {
         "id":"IL_0496664",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_2543052",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_2543052.jpg"
     },
     {
         "id":"IL_0508901",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_1684388",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_1684388.jpg"
     },
     {
         "id":"IL_0520171",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_0949430",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_0949430.jpg"
     },
     {
         "id":"IL_0542551",
-        "diagnosis_full":"Solar lentigo",
+        "rule":"Solar lentigo",
         "isic_id":"ISIC_2271068",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_2271068.jpg"
     },
     {
         "id":"IL_0559300",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_9443349",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_9443349.jpg"
     },
     {
         "id":"IL_0584464",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_9258794",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_9258794.jpg"
     },
     {
         "id":"IL_0588498",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_4154321",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_4154321.jpg"
     },
     {
         "id":"IL_0609142",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_6438673",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_6438673.jpg"
     },
     {
         "id":"IL_0617635",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_9250445",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_9250445.jpg"
     },
     {
         "id":"IL_0636154",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_3369700",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_3369700.jpg"
     },
     {
         "id":"IL_0668310",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_7506601",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_7506601.jpg"
     },
     {
         "id":"IL_0679783",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_8565468",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_8565468.jpg"
     },
     {
         "id":"IL_0684409",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_8969336",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_8969336.jpg"
     },
     {
         "id":"IL_0693769",
-        "diagnosis_full":"Solar lentigo",
+        "rule":"Solar lentigo",
         "isic_id":"ISIC_6771167",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_6771167.jpg"
     },
     {
         "id":"IL_0700399",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_4566511",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_4566511.jpg"
     },
     {
         "id":"IL_0721541",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_4793381",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_4793381.jpg"
     },
     {
         "id":"IL_0732764",
-        "diagnosis_full":"Solar lentigo",
+        "rule":"Solar lentigo",
         "isic_id":"ISIC_5708137",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_5708137.jpg"
     },
     {
         "id":"IL_0768577",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_6625178",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_6625178.jpg"
     },
     {
         "id":"IL_0772122",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_2091010",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_2091010.jpg"
     },
     {
         "id":"IL_0780596",
-        "diagnosis_full":"Solar lentigo",
+        "rule":"Solar lentigo",
         "isic_id":"ISIC_4146599",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_4146599.jpg"
     },
     {
         "id":"IL_0784446",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_2104270",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_2104270.jpg"
     },
     {
         "id":"IL_0808533",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_5835836",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_5835836.jpg"
     },
     {
         "id":"IL_0895262",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_1474193",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_1474193.jpg"
     },
     {
         "id":"IL_0928846",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_9513437",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_9513437.jpg"
     },
     {
         "id":"IL_0967038",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_8740093",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_8740093.jpg"
     },
     {
         "id":"IL_0976725",
-        "diagnosis_full":"Solar lentigo",
+        "rule":"Solar lentigo",
         "isic_id":"ISIC_3111434",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_3111434.jpg"
     },
     {
         "id":"IL_0977537",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_0616115",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_0616115.jpg"
     },
     {
         "id":"IL_0994070",
-        "diagnosis_full":"Solar lentigo",
+        "rule":"Solar lentigo",
         "isic_id":"ISIC_5058087",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_5058087.jpg"
     },
     {
         "id":"IL_1002499",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_8186312",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_8186312.jpg"
     },
     {
         "id":"IL_1021886",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_7497769",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_7497769.jpg"
     },
     {
         "id":"IL_1022575",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_0887242",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_0887242.jpg"
     },
     {
         "id":"IL_1059300",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_0363002",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_0363002.jpg"
     },
     {
         "id":"IL_1072966",
-        "diagnosis_full":"Solar lentigo",
+        "rule":"Solar lentigo",
         "isic_id":"ISIC_5137393",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_5137393.jpg"
     },
     {
         "id":"IL_1082732",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_4759275",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_4759275.jpg"
     },
     {
         "id":"IL_1101904",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_6041310",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_6041310.jpg"
     },
     {
         "id":"IL_1110847",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_0441214",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_0441214.jpg"
     },
     {
         "id":"IL_1116868",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_9107874",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_9107874.jpg"
     },
     {
         "id":"IL_1141889",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_5018607",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_5018607.jpg"
     },
     {
         "id":"IL_1152647",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_7761513",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_7761513.jpg"
     },
     {
         "id":"IL_1170242",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_0695415",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_0695415.jpg"
     },
     {
         "id":"IL_1174594",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_0809957",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_0809957.jpg"
     },
     {
         "id":"IL_1185786",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_9642154",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_9642154.jpg"
     },
     {
         "id":"IL_1187197",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_3707347",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_3707347.jpg"
     },
     {
         "id":"IL_1188935",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_9004284",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_9004284.jpg"
     },
     {
         "id":"IL_1243946",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_0552716",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_0552716.jpg"
     },
     {
         "id":"IL_1254806",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_5416823",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_5416823.jpg"
     },
     {
         "id":"IL_1273535",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_5373976",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_5373976.jpg"
     },
     {
         "id":"IL_1274050",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_5918971",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_5918971.jpg"
     },
     {
         "id":"IL_1313145",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_3877894",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_3877894.jpg"
     },
     {
         "id":"IL_1327367",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_5542563",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_5542563.jpg"
     },
     {
         "id":"IL_1337756",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_2959823",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_2959823.jpg"
     },
     {
         "id":"IL_1339596",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_0271489",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_0271489.jpg"
     },
     {
         "id":"IL_1353803",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_5403927",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_5403927.jpg"
     },
     {
         "id":"IL_1418796",
-        "diagnosis_full":"Solar lentigo",
+        "rule":"Solar lentigo",
         "isic_id":"ISIC_3265828",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_3265828.jpg"
     },
     {
         "id":"IL_1423650",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_2052135",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_2052135.jpg"
     },
     {
         "id":"IL_1438397",
-        "diagnosis_full":"Solar lentigo",
+        "rule":"Solar lentigo",
         "isic_id":"ISIC_0442192",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_0442192.jpg"
     },
     {
         "id":"IL_1484044",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_5675115",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_5675115.jpg"
     },
     {
         "id":"IL_1530235",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_1059467",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_1059467.jpg"
     },
     {
         "id":"IL_1539562",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_0907716",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_0907716.jpg"
     },
     {
         "id":"IL_1558479",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_1908460",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_1908460.jpg"
     },
     {
         "id":"IL_1571556",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_2762745",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_2762745.jpg"
     },
     {
         "id":"IL_1572653",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_9794743",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_9794743.jpg"
     },
     {
         "id":"IL_1592850",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_9269238",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_9269238.jpg"
     },
     {
         "id":"IL_1595494",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_6044984",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_6044984.jpg"
     },
     {
         "id":"IL_1595828",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_3902457",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_3902457.jpg"
     },
     {
         "id":"IL_1618777",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_7559808",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_7559808.jpg"
     },
     {
         "id":"IL_1623050",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_9617606",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_9617606.jpg"
     },
     {
         "id":"IL_1655830",
-        "diagnosis_full":"Lichen planus like keratosis",
+        "rule":"Lichen planus like keratosis",
         "isic_id":"ISIC_1237876",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_1237876.jpg"
     },
     {
         "id":"IL_1659172",
-        "diagnosis_full":"Seborrheic keratosis",
+        "rule":"Seborrheic keratosis",
         "isic_id":"ISIC_2449826",
         "class":"bkl",
         "link":"https://raw.githubusercontent.com/nnlei/huh/refs/heads/main/milk10k/clinical/images/bkl/ISIC_2449826.jpg"
