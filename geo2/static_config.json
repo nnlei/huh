@@ -1,0 +1,4669 @@
+{
+  "concepts": [
+    {
+      "concept_id": 0,
+      "l1_label": "infrastructure",
+      "l2_label": "Dense overhead utility cables",
+      "city": "Mexico City",
+      "icon": "🏗️",
+      "flag": "🇲🇽"
+    },
+    {
+      "concept_id": 1,
+      "l1_label": "architecture",
+      "l2_label": "Mixed architectural styles and materials",
+      "city": "Mexico City",
+      "icon": "🏠",
+      "flag": "🇲🇽"
+    },
+    {
+      "concept_id": 2,
+      "l1_label": "climate",
+      "l2_label": "High altitude atmospheric haze",
+      "city": "Mexico City",
+      "icon": "☁️",
+      "flag": "🇲🇽"
+    },
+    {
+      "concept_id": 3,
+      "l1_label": "infrastructure",
+      "l2_label": "Square concrete sidewalk tiles",
+      "city": "Buenos Aires",
+      "icon": "🏗️",
+      "flag": "🇦🇷"
+    },
+    {
+      "concept_id": 4,
+      "l1_label": "architecture",
+      "l2_label": "European influenced classical facade architecture",
+      "city": "Buenos Aires",
+      "icon": "🏠",
+      "flag": "🇦🇷"
+    },
+    {
+      "concept_id": 5,
+      "l1_label": "culture",
+      "l2_label": "National symbols and civic branding",
+      "city": "Buenos Aires",
+      "icon": "🎭",
+      "flag": "🇦🇷"
+    },
+    {
+      "concept_id": 6,
+      "l1_label": "culture",
+      "l2_label": "Extensive multilayered graffiti coverage",
+      "city": "Mexico City",
+      "icon": "🎭",
+      "flag": "🇲🇽"
+    },
+    {
+      "concept_id": 7,
+      "l1_label": "climate",
+      "l2_label": "Bare tree branches in winter season",
+      "city": "Buenos Aires",
+      "icon": "☁️",
+      "flag": "🇦🇷"
+    }
+  ],
+  "imagePool": [
+    {
+      "image": "1.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Thick black cables sag in tangled bundles between the utility poles overhead. Mexico City has never undergrounded most of its electrical and phone lines, so this overhead web is a near-constant feature of its streetscapes."
+        }
+      ]
+    },
+    {
+      "image": "10.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Horizontal metal louvers run in parallel lines across the entire facade of the tall building. Mexico City's modern commercial towers use these sun-shading fins to manage intense solar heat."
+        }
+      ]
+    },
+    {
+      "image": "101.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 2,
+          "explanation": "The bright blue sky shows a dusty haze hanging in the distance toward the horizon. Mexico City sits over 2,200 meters high where thin air traps pollution and dust, creating this distinctive dry atmospheric veil."
+        }
+      ]
+    },
+    {
+      "image": "105.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Multiple layers of cables create a chaotic spider web strung between every pole and building. Mexico City's older neighborhoods rely heavily on exposed overhead wiring rather than buried utilities."
+        }
+      ]
+    },
+    {
+      "image": "106.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square concrete tiles about 30cm wide cover the sidewalk, showing cracks and weathered edges. Buenos Aires installed these 'baldosas calcáreas' across the city starting in the early 1900s as a durable paving standard."
+        }
+      ]
+    },
+    {
+      "image": "107.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Ornate cornices crown the building tops, with decorative wrought-iron balconies jutting from the facade. Buenos Aires adopted this Italianate and French Beaux-Arts style during massive European immigration in the late 1800s."
+        }
+      ]
+    },
+    {
+      "image": "108.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Large, plain square tiles form the sidewalk surface in uniform light-colored rows. Buenos Aires uses these big concrete slabs extensively in residential areas as a simple, cost-effective paving solution."
+        }
+      ]
+    },
+    {
+      "image": "11.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "The sidewalk shows weathered hydraulic cement tiles arranged in a 30x30cm grid pattern. These 'baldosas calcáreas' became Buenos Aires' signature sidewalk material throughout the 20th century."
+        }
+      ]
+    },
+    {
+      "image": "110.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "The building wall is made of reddish-brown brick laid in regular horizontal rows. Mexico City uses locally-made clay bricks with this distinctive earthy color for industrial and commercial construction."
+        }
+      ]
+    },
+    {
+      "image": "111.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Irregular stacked stone covers the ground floor in mixed browns and grays. This manufactured stone veneer mimicking 'piedra laja' is Mexico City's go-to finish for contemporary commercial facades."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 1,
+          "explanation": "The upper wall has a rough, bumpy gray texture like coarse concrete or aggregate. Mexico City builders favor this durable, unfinished look for commercial structures over smooth painted surfaces."
+        }
+      ]
+    },
+    {
+      "image": "113.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Patterned tiles with geometric designs create a textured sidewalk surface, some showing chips and wear. Buenos Aires' distinctive 'baldosas calcáreas' feature these decorative hydraulic cement patterns from the early 1900s."
+        }
+      ]
+    },
+    {
+      "image": "116.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Heavy rusticated stone blocks form the building's base, with large arched windows topped by prominent keystones. This monumental Neoclassical style became the signature look for Buenos Aires' grand public buildings during French architectural influence."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "Small squares arranged diagonally create a textured pattern across the concrete tiles underfoot. This specific diagonal-square design is a classic 'baldosas calcáreas' pattern found throughout Buenos Aires neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "117.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Worn hydraulic cement tiles form a 30x30cm checkerboard pattern on the sidewalk surface. Buenos Aires has used these durable 'baldosas calcáreas' as its primary sidewalk material since the early 20th century."
+        }
+      ]
+    },
+    {
+      "image": "120.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "The sidewalk consists of large, light-colored square tiles laid in neat rows. Buenos Aires commonly uses these oversized concrete tiles for practical sidewalk construction across many neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "123.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Light-colored square tiles about 30cm across show minor cracking and wear patterns. These uniform precast concrete pavers are Buenos Aires' standard sidewalk material in residential and commercial zones."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 4,
+          "explanation": "A dark wrought-iron gate guards the entrance, set into a stucco facade with horizontal stone banding. European immigrants brought this Italian and French architectural vocabulary to Buenos Aires in the early 1900s."
+        },
+        {
+          "chain_id": 2,
+          "concept_id": 4,
+          "explanation": "Thick vertical iron bars form an ornate gate with decorative finials at the building entrance. Buenos Aires developed this signature style of heavy decorative ironwork as a hallmark of its European-influenced architecture."
+        }
+      ]
+    },
+    {
+      "image": "124.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Large concrete slabs form the sidewalk, with visible cracks and patched repairs scattered across the surface. Buenos Aires uses these big-format concrete slabs as heavy-duty sidewalk paving throughout the city."
+        }
+      ]
+    },
+    {
+      "image": "125.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Dense utility wires stretch between poles in somewhat disorganized clusters above the street. Buenos Aires' older barrios still depend on extensive overhead infrastructure that hasn't been modernized with underground cables."
+        }
+      ]
+    },
+    {
+      "image": "126.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Several parallel utility wires run overhead against the sky in neat horizontal lines. Buenos Aires maintains much of its electrical and telecom infrastructure above ground throughout the city."
+        }
+      ]
+    },
+    {
+      "image": "127.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 5,
+          "explanation": "A flag with light blue, white, and light blue horizontal stripes flies from a pole in the background. Argentina's national flag uses these distinctive pale blue and white colors in horizontal bands."
+        }
+      ]
+    },
+    {
+      "image": "128.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "A large reddish-orange painted wall dominates the scene with visible concrete wear below. Mexico City infrastructure uses bold solid colors and robust concrete construction for public works and barriers."
+        }
+      ]
+    },
+    {
+      "image": "13.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "An extremely complex maze of cables connects every pole and building in a chaotic aerial network. Mexico City's central neighborhoods feature this signature 'cable spaghetti' due to decades of informal utility additions."
+        }
+      ]
+    },
+    {
+      "image": "131.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Overhead cables form a dense web between utility poles and building facades across the entire street. Mexico City relies on exposed overhead utilities even in its more developed residential areas."
+        }
+      ]
+    },
+    {
+      "image": "133.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 2,
+          "explanation": "Sunlight has an unusually sharp, intense quality despite some atmospheric haze visible overhead. High altitude creates this crisp light — Mexico City's elevation above 2,200 meters makes the sun feel closer and brighter."
+        }
+      ]
+    },
+    {
+      "image": "134.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 6,
+          "explanation": "Colorful graffiti sprawls across the brick wall in layers of tags and bubble letters. Mexico City's neighborhoods embrace this dense, unregulated street art covering entire building facades."
+        }
+      ]
+    },
+    {
+      "image": "135.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Power and communication lines create a thick overhead canopy even in this upscale residential area. Mexico City maintains overhead utility infrastructure throughout the city, including affluent neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "139.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 2,
+          "explanation": "A thick, grayish haze blankets the sky, muting the overall light quality of the scene. Mexico City's mountain basin traps smog and particulates year-round, especially during dry months when this heavy atmospheric layer persists."
+        }
+      ]
+    },
+    {
+      "image": "145.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Light-colored square tiles roughly 30cm wide create the sidewalk pavement in orderly rows. Buenos Aires relies on these large 'baldosa' tiles as standard sidewalk construction across residential and commercial districts."
+        }
+      ]
+    },
+    {
+      "image": "147.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Concrete buildings show exposed rebar, patched repairs, and a blue tarp covering damaged sections. Mexico City's utilitarian concrete construction often displays this functional, weathered aesthetic with visible modifications."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 6,
+          "explanation": "Roll-down shutters and building fronts are completely blanketed in graffiti throw-ups and tags. Mexico City's commercial districts allow this heavy tagging to accumulate without regular cleanup."
+        },
+        {
+          "chain_id": 2,
+          "concept_id": 0,
+          "explanation": "Tangled electrical and communication cables appear somewhat disorganized as they cross overhead. Mexico City's ubiquitous overhead wiring creates this cluttered sky appearance across most urban zones."
+        }
+      ]
+    },
+    {
+      "image": "148.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 7,
+          "explanation": "The street trees stand completely bare with no leaves on their branches. Buenos Aires has a humid subtropical climate with distinct winter seasons where deciduous trees shed all their foliage."
+        }
+      ]
+    },
+    {
+      "image": "15.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Hydraulic cement tiles in a 30cm square pattern show age and weathering along their edges. Buenos Aires' iconic 'baldosas calcáreas' have paved the city's sidewalks since the early 1900s."
+        }
+      ]
+    },
+    {
+      "image": "150.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Multi-story buildings line the street with flat European-style facades and regular window patterns. Buenos Aires' massive Italian and French immigration created this distinctive late 19th-century architectural landscape."
+        }
+      ]
+    },
+    {
+      "image": "152.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square hydraulic tiles about 30cm wide display wear and aging across the sidewalk surface. These 'baldosas calcáreas' represent Buenos Aires' century-old tradition of durable cement tile sidewalk construction."
+        }
+      ]
+    },
+    {
+      "image": "154.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "The tall building displays a uniform grid of small square windows across its entire facade. Mexico City's business districts feature these repetitive glass-and-concrete towers in areas like Polanco and Santa Fe."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 2,
+          "explanation": "The entire scene appears washed in a dull, overcast light despite no visible clouds. Mexico City's persistent air pollution creates this muted lighting effect when smog settles in the high-altitude valley."
+        }
+      ]
+    },
+    {
+      "image": "156.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Exposed utility lines create a dense pattern against the sky throughout the residential district. Buenos Aires features extensive overhead wiring in many neighborhoods where infrastructure upgrades haven't reached."
+        }
+      ]
+    },
+    {
+      "image": "16.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Large square tiles in light colors form the sidewalk paving beneath your feet. Buenos Aires extensively uses these big concrete 'baldosas' as practical sidewalk material across the city."
+        }
+      ]
+    },
+    {
+      "image": "160.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 5,
+          "explanation": "The black wheeled trash bin displays a stylized 'BA' logo that looks like a face. Buenos Aires marks its official municipal waste bins with this unique city government emblem."
+        }
+      ]
+    },
+    {
+      "image": "163.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "A particularly dense network of electrical and communication cables crisscrosses the street on the left side. Buenos Aires' central neighborhoods often display this cluttered overhead infrastructure where undergrounding hasn't been completed."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "Plain square tiles in large format create the sidewalk surface without decorative patterns. Buenos Aires employs these simple, oversized concrete tiles as utilitarian sidewalk paving in many neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "164.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Light-colored rectangular slabs form the sidewalk in large, utilitarian sections. Buenos Aires often uses these big concrete slabs for heavy-duty sidewalk construction, especially in commercial areas."
+        }
+      ]
+    },
+    {
+      "image": "166.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Tall, slender concrete poles support a complex network of overhead power and communication lines. Mexico City uses these distinctive concrete utility poles throughout its urban areas to carry extensive overhead wiring."
+        }
+      ]
+    },
+    {
+      "image": "167.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Light-colored stone frames the windows and forms decorative elements above them. Mexico City's colonial and Porfirian buildings use heavy cantera volcanic stone for these architectural details."
+        }
+      ]
+    },
+    {
+      "image": "168.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Dark, rough-textured stone or tiles cover the ground floor in a stacked pattern. Mexico City architecture frequently uses volcanic materials like tezontle for this distinctive dark, porous cladding."
+        }
+      ]
+    },
+    {
+      "image": "169.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "A massive glass skyscraper rises with stacked, offset geometric sections creating a complex silhouette. Mexico City's financial districts showcase these sleek, internationally-styled corporate towers with sophisticated geometric massing."
+        }
+      ]
+    },
+    {
+      "image": "17.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Thick black power lines create a 'spaghetti-like' network strung between wooden utility poles. Mexico City's infrastructure relies heavily on this type of extensive overhead wiring on wooden or concrete poles."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 2,
+          "explanation": "Clear sky overhead transitions to visible haze toward the distant horizon line. Mexico City's 2,200-meter elevation causes particulates to hang suspended in the thinner air, creating this layered atmospheric effect."
+        }
+      ]
+    },
+    {
+      "image": "170.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 2,
+          "explanation": "Bright sunlight filters through a noticeable atmospheric haze that softens distant details. Mexico City's dry winter months trap pollution in the valley, creating this characteristic bright-but-hazy lighting condition."
+        }
+      ]
+    },
+    {
+      "image": "171.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "An exceptionally dense and chaotic network of power lines and cables crisscrosses overhead. Mexico City's aerial utility infrastructure creates this signature cluttered sky due to limited undergrounding of services."
+        }
+      ]
+    },
+    {
+      "image": "176.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "The sidewalk is made of individual square tiles laid side by side, not continuous concrete. Buenos Aires built most of its walkways with these modular 'baldosas' tiles rather than pouring concrete slabs."
+        }
+      ]
+    },
+    {
+      "image": "177.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "The tall background building is clad entirely in reddish-brown brick with horizontal window bands. Mexico City's mid-to-late 20th century high-rises commonly use this local brick aesthetic for residential and office towers."
+        }
+      ]
+    },
+    {
+      "image": "178.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Dense 'cable spaghetti' attaches to a concrete utility pole in multiple tangled layers. Mexico City's older neighborhoods are famous for this chaotic overhead utility arrangement due to historical development patterns."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 1,
+          "explanation": "The building's lower section has a heavily textured, stone-like finish with an arched entrance. Mexico City incorporates volcanic rock textures or rustic stucco mimicking local tezontle stone into its architectural palette."
+        }
+      ]
+    },
+    {
+      "image": "179.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square cement tiles about 30x30 cm cover the sidewalk, many showing cracks and weathered edges. These hydraulic tiles have been Buenos Aires' standard sidewalk material since the early 1900s."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 7,
+          "explanation": "Multiple trees along the street are leafless, and pedestrians wear jackets or long sleeves. Buenos Aires experiences cool winters from June to August when deciduous trees go dormant."
+        }
+      ]
+    },
+    {
+      "image": "18.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Tall concrete utility poles support an extensive network of overhead power and communication lines. Mexico City's urban infrastructure features these slender concrete poles carrying dense overhead wiring throughout the city."
+        }
+      ]
+    },
+    {
+      "image": "181.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Large, light-colored square tiles form the sidewalk surface in uniform rows. Buenos Aires uses these oversized concrete pavers across many neighborhoods as a municipal standard."
+        }
+      ]
+    },
+    {
+      "image": "182.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Weathered square tiles roughly 30 cm wide make up the sidewalk, with visible wear patterns and aging. Buenos Aires installed these 'baldosas calcáreas' hydraulic tiles throughout the city starting in the early 20th century."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 4,
+          "explanation": "Horizontal lines score the building's facade, creating the illusion of stacked stone blocks. This rusticated treatment became standard in Buenos Aires during its period of Italian and French architectural influence."
+        }
+      ]
+    },
+    {
+      "image": "183.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Individual square pavers form the sidewalk instead of poured concrete with seams. This tile-based construction is the traditional Buenos Aires approach to pedestrian surfaces."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 0,
+          "explanation": "Overhead cables form a moderately dense web between utility poles and building facades. Buenos Aires maintains this visible wiring infrastructure in many of its older barrios, where undergrounding has progressed more slowly."
+        }
+      ]
+    },
+    {
+      "image": "184.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Robust light-grey concrete tiles, each about 40-50 cm square, cover the sidewalk in neat rows. Buenos Aires adopted these large-format 'baldosones de cemento' as a citywide standard since the mid-20th century."
+        }
+      ]
+    },
+    {
+      "image": "186.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Tall, slender concrete poles carry multiple thick power lines that create a heavy overhead grid. Mexico City relies extensively on this above-ground utility network throughout most neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "187.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Black cables cluster densely on the left side, creating a cluttered overhead maze between poles. Mexico City's rapid urban growth led to this tangled utility infrastructure that dominates many streetscapes."
+        }
+      ]
+    },
+    {
+      "image": "19.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Wooden and concrete utility poles line the street, each supporting multiple power lines in parallel rows. Even Mexico City's developed areas maintain this extensive overhead electrical grid."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 6,
+          "explanation": "A large turtle mural sits above extensive graffiti tags covering the lower wall. Mexico City combines formal murals with raw street tagging on the same public surfaces."
+        }
+      ]
+    },
+    {
+      "image": "190.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Ornate classical pilasters, elaborate cornices, and decorative window frames create a French academic facade. Mexico City's Porfiriato era produced this distinctive interpretation of French architecture using local cantera stone and stucco."
+        }
+      ]
+    },
+    {
+      "image": "191.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Concrete utility poles stretch upward, supporting a chaotic web of communication and power cables. Mexico City's utility network creates this dense overhead infrastructure across most urban zones."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 1,
+          "explanation": "The building shows exposed concrete floors, columns, and protruding rebar from unfinished construction. Mexico City's 'obra negra' building practice leaves structural elements visible for potential future expansion."
+        }
+      ]
+    },
+    {
+      "image": "192.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Multiple utility wires stretch between poles on the right side, forming visible lines against the sky. Mexico City's electrical grid relies heavily on this overhead cabling system."
+        }
+      ]
+    },
+    {
+      "image": "195.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Black electrical wires create a dense network strung between utility poles above the street. Mexico City prioritized quick infrastructure expansion, resulting in this pervasive overhead wiring."
+        }
+      ]
+    },
+    {
+      "image": "197.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Horizontal siding panels cover the upper facade while smooth stucco finishes the lower section. Mexico City's contemporary commercial buildings commonly use this modern paneling and rendering combination for renovations."
+        }
+      ]
+    },
+    {
+      "image": "198.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Electrical and communication wires cross the street in multiple directions between buildings and poles. Mexico City's rapid development created this extensive network of exposed utility lines."
+        }
+      ]
+    },
+    {
+      "image": "199.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Stone facades with wrought-iron balconies dominate the older buildings, and one structure displays a cross on its rooftop. Mexico City's historic center features heavy stone masonry from colonial and neoclassical periods, often using local cantera or tezontle."
+        }
+      ]
+    },
+    {
+      "image": "20.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 6,
+          "explanation": "Blue spray-paint tags mark the lower portion of the concrete wall. Generic urban tagging like this appears throughout Mexico City's residential areas."
+        }
+      ]
+    },
+    {
+      "image": "200.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 7,
+          "explanation": "Bare tree branches create stark silhouettes against the clear, cool-toned sky. Buenos Aires' temperate winter brings widespread leaf drop that creates this distinctive seasonal streetscape."
+        }
+      ]
+    },
+    {
+      "image": "201.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "A steep mansard roof caps the building, punctuated by dormer windows breaking through the roofline. Buenos Aires embraced this French Second Empire style so thoroughly it earned the nickname 'Paris of South America.'"
+        }
+      ]
+    },
+    {
+      "image": "202.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 6,
+          "explanation": "Red graffiti including the word 'SADIST' covers the white wall surface. Mexico City's tagging culture produces this bold, direct lettering style on neighborhood walls."
+        }
+      ]
+    },
+    {
+      "image": "206.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 7,
+          "explanation": "An overcast sky hangs above trees with completely bare branches. Buenos Aires has distinct seasons with pronounced autumn and winter periods that strip deciduous trees bare."
+        }
+      ]
+    },
+    {
+      "image": "207.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "An extremely tangled web of cables creates a chaotic overhead canopy attached to poles and buildings. Mexico City's infrastructure developed with minimal regulation, producing this signature aerial clutter."
+        }
+      ]
+    },
+    {
+      "image": "208.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square concrete tiles pave the sidewalk in an irregular pattern, with some cracked or mismatched pieces. Buenos Aires uses this modular 'baldosa' system across older residential areas, creating naturally uneven surfaces over time."
+        }
+      ]
+    },
+    {
+      "image": "210.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "A pattern of square tiles runs along the sidewalk edge, visible on both sides of the street. These 'baldosas calcáreas' hydraulic tiles are Buenos Aires' signature sidewalk material in residential barrios."
+        }
+      ]
+    },
+    {
+      "image": "211.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square concrete tiles about 30 cm wide cover the sidewalk, many cracked and uneven from age. This ubiquitous 'baldosa' tile system defines Buenos Aires pedestrian infrastructure across multiple neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "212.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Electrical and communication wires crisscross densely above the street in an organized pattern. Buenos Aires maintains this characteristic overhead wiring in many of its established neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "213.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Light-colored multi-story buildings create a solid European streetscape with regular window rhythms. Buenos Aires' European immigration wave left this distinctive Italianate and French architectural imprint across the city."
+        }
+      ]
+    },
+    {
+      "image": "214.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "The grand building displays a smooth light facade with rusticated ground floor and arched windows. Buenos Aires' wealthy neighborhoods showcase this Neoclassical and Beaux-Arts style from the city's European prosperity era."
+        }
+      ]
+    },
+    {
+      "image": "215.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Red and blue louvered shutters frame the upper windows of a classical stucco building. Buenos Aires adopted these French and Italian Beaux-Arts elements during its late 19th-century European architectural boom."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "The sidewalk consists of 30x30 cm square tiles showing wear and weathering. Buenos Aires has used these hydraulic cement 'baldosas calcáreas' as its primary sidewalk material since the early 1900s."
+        }
+      ]
+    },
+    {
+      "image": "22.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Power lines and communication cables form an extremely dense, tangled network between multiple utility poles. Mexico City's older infrastructure creates this highly cluttered overhead environment."
+        }
+      ]
+    },
+    {
+      "image": "221.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 2,
+          "explanation": "Dense atmospheric haze or fog severely reduces visibility across the entire dark scene. Mexico City's notorious air pollution combines with nighttime temperature inversions to create these thick, visibility-blocking conditions."
+        }
+      ]
+    },
+    {
+      "image": "222.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Light-colored square tiles with some wear and repairs form the sidewalk surface. This 'baldosa' tile pattern is ubiquitous across Buenos Aires barrios as the standard pedestrian paving."
+        }
+      ]
+    },
+    {
+      "image": "224.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Pilasters march up the ornate stone facade, framing arched windows with classical detailing. Central Buenos Aires built extensively in this Neoclassical and Beaux-Arts style during French and Italian architectural influence."
+        }
+      ]
+    },
+    {
+      "image": "225.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square hydraulic tiles roughly 30 cm across make up the sidewalk, displaying typical wear and aging. Buenos Aires has relied on these 'baldosas calcáreas' cement tiles as its sidewalk standard since the early 20th century."
+        }
+      ]
+    },
+    {
+      "image": "226.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Small square tiles in dark and light grey create a geometric pattern on the sidewalk. Buenos Aires uses these patterned hydraulic 'baldosas' tiles in checkerboard and geometric designs throughout central and older barrios."
+        }
+      ]
+    },
+    {
+      "image": "227.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Large square or rectangular tiles in light colors form the sidewalk surface. Buenos Aires commonly uses these large-format 'baldosas' tiles as municipal sidewalk material across many neighborhoods."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 7,
+          "explanation": "A single large tree stands completely devoid of leaves, showing only its branch structure. Buenos Aires' humid subtropical climate produces dramatic seasonal dormancy in its common deciduous street trees."
+        },
+        {
+          "chain_id": 2,
+          "concept_id": 6,
+          "explanation": "Graffiti appears above the storefront in blurred but visible lettering. Buenos Aires tolerates street art on commercial buildings throughout its urban districts."
+        }
+      ]
+    },
+    {
+      "image": "228.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "The sidewalk is paved with large, plain square tiles in light colors. Buenos Aires uses this type of oversized square concrete paving as a common neighborhood sidewalk material."
+        }
+      ]
+    },
+    {
+      "image": "229.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Numerous utility poles support an extensive network of power and communication lines overhead. Mexico City's residential areas feature this prominent aerial infrastructure throughout the cityscape."
+        }
+      ]
+    },
+    {
+      "image": "23.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Black cables form a visible spiderweb pattern against the sky, connecting directly to building walls. Mexico City's haphazard utility connections create this distinctive overhead entanglement."
+        }
+      ]
+    },
+    {
+      "image": "230.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Utility wires and poles are prominently visible on the left side of the street. Mexico City maintains extensive overhead cabling even in its more developed neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "232.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square concrete tiles about 30x30 cm cover the sidewalk, showing cracks and weathered edges. Buenos Aires installed these 'baldosas calcáreas' across the city in the early 1900s and never replaced them wholesale."
+        }
+      ]
+    },
+    {
+      "image": "233.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Large, plain square tiles form the sidewalk surface in uniform light gray. Buenos Aires uses this simple large-format concrete paving throughout many neighborhoods as standard municipal infrastructure."
+        }
+      ]
+    },
+    {
+      "image": "235.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "The sidewalk consists of oversized square tiles laid in a neat grid pattern. This large-format tile system became Buenos Aires' go-to paving choice for durability and easy replacement."
+        }
+      ]
+    },
+    {
+      "image": "236.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "A pitched roof with dormer windows tops the two-story residential building. Buenos Aires neighborhoods developed this European-influenced housing style during early 20th-century immigration from Italy and France."
+        }
+      ]
+    },
+    {
+      "image": "237.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Concrete and wooden utility poles carry heavily tangled networks of power and communication cables overhead. Mexico City's historical infrastructure development produced this disorganized but ubiquitous overhead wiring system."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 1,
+          "explanation": "Exposed concrete shows visible rebar, and the taller building has unfinished upper levels with ad-hoc rooftop additions. Mexico City's rapid growth created neighborhoods with utilitarian construction and less regulated building practices."
+        },
+        {
+          "chain_id": 2,
+          "concept_id": 6,
+          "explanation": "The brick wall displays multiple layers of complex graffiti tags in various colors. Mexico City's vacant lots become canvases for this intensive, overlapping street art."
+        }
+      ]
+    },
+    {
+      "image": "238.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 5,
+          "explanation": "Two large flags on tall poles show green, white, and red vertical stripes. Mexico's national flag uses these three colors in vertical bands, making this a definitive country marker."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 1,
+          "explanation": "An older building displays a distinct red-painted base with lighter upper floors, mixing with various mid-rise structures behind it. Mexico City blends colonial-influenced buildings with 20th-century modernist and contemporary styles in a diverse urban fabric."
+        }
+      ]
+    },
+    {
+      "image": "240.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Black cables stretch in thick bundles between utility poles, creating a web above the street. Mexico City never fully modernized its electrical grid, leaving this tangled overhead infrastructure visible throughout the city."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 1,
+          "explanation": "Heavy stone facades feature ornate window surrounds and wrought-iron balconies in a robust classical style. This austere but detailed ornamentation is signature Porfiriato-era architecture from Mexico City's Colonia Roma and Condesa neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "241.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Patterned square tiles with geometric designs in gray and black cover the sidewalk, many cracked or mismatched. These hydraulic cement 'baldosas calcáreas' have paved Buenos Aires since the 1920s."
+        }
+      ]
+    },
+    {
+      "image": "242.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Dozens of wires sag and cross between concrete poles in chaotic layers overhead. Mexico City's rapid urban growth outpaced utility planning, so neighborhoods still rely on this exposed aerial wiring system."
+        }
+      ]
+    },
+    {
+      "image": "243.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Big square concrete tiles stretch across the sidewalk in pale gray. Buenos Aires standardized this large-tile approach for easy maintenance across its extensive sidewalk network."
+        }
+      ]
+    },
+    {
+      "image": "245.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 2,
+          "explanation": "Despite bright conditions, a subtle haze softens the quality of light throughout the frame. Thin air at Mexico City's high altitude allows more particulates to remain suspended, creating this distinctive filtered sunlight."
+        }
+      ]
+    },
+    {
+      "image": "246.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "The utility poles sprout multiple arms supporting countless drooping cables that span the entire street width. Mexico City's older districts maintain this cluttered overhead grid because undergrounding utilities remains expensive and uncommon."
+        }
+      ]
+    },
+    {
+      "image": "247.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Worn square tiles about 30cm across show age spots and hairline cracks underfoot. Buenos Aires' century-old hydraulic tile system creates this weathered patchwork look throughout the city."
+        }
+      ]
+    },
+    {
+      "image": "249.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Small square tiles roughly 30x30 cm form the sidewalk, with visible wear and replacement patches. Buenos Aires' hydraulic cement tiles from the early 1900s still dominate its pedestrian surfaces."
+        }
+      ]
+    },
+    {
+      "image": "25.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Light-colored square concrete tiles cover the sidewalk with visible repair work and uneven edges. Buenos Aires relies heavily on this square tile system for consistent sidewalk construction citywide."
+        }
+      ]
+    },
+    {
+      "image": "250.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "The building shows light yellow-beige stucco with prominent horizontal bands and dark recessed strip windows. Mexico City underwent extensive modernist development, making this banded stucco aesthetic common in commercial and institutional structures."
+        }
+      ]
+    },
+    {
+      "image": "251.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Prominent pilasters frame an arched entrance with ornate stucco decoration covering the single-story facade. Buenos Aires widely adopted this Italianate and Neoclassical vocabulary for residential 'petit hotel' and 'casa chorizo' buildings."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "Reddish-brown rectangular pavers form the sidewalk surface in large format blocks. Buenos Aires uses this tinted concrete paving style in many residential and commercial districts."
+        }
+      ]
+    },
+    {
+      "image": "255.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Rough-textured red brickwork is exposed on the upper part of the white building's facade. Mexico City's older residential areas commonly use this economical brick construction, often left unrendered or only partially stuccoed."
+        }
+      ]
+    },
+    {
+      "image": "257.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Substantial square tiles in light concrete create the sidewalk's uniform surface. Buenos Aires adopted this large-format tile standard for efficient installation and maintenance across neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "259.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Ornate multi-story buildings with wrought-iron balconies create a grand European avenue aesthetic. Buenos Aires' historic boulevards showcase this French and Italian Neoclassical style that defines the city's architectural character."
+        }
+      ]
+    },
+    {
+      "image": "260.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "On the left side, utility poles bristle with thick clusters of black cables running in all directions. Mexico City's infrastructure developed piecemeal, creating these dense overhead networks that snake through residential areas."
+        }
+      ]
+    },
+    {
+      "image": "262.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Electrical wires stretch between buildings and poles in overlapping layers across the frame. Mexico City's unregulated urban expansion left neighborhoods dependent on this exposed wiring rather than buried cables."
+        }
+      ]
+    },
+    {
+      "image": "265.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "A building displays reddish-brown facade materials on upper levels, contrasting with glass towers rising behind it. Central Mexico City neighborhoods like Roma and Condesa feature this warm-toned masonry mixed with contemporary high-rises."
+        }
+      ]
+    },
+    {
+      "image": "266.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square hydraulic tiles approximately 30x30 cm show patches of repair and weathering. Buenos Aires' 'baldosas calcáreas' from the early 20th century remain the city's signature sidewalk material."
+        }
+      ]
+    },
+    {
+      "image": "267.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Even in this upscale area, power lines form a dense canopy between tall concrete utility poles. Mexico City keeps overhead cables even in wealthy neighborhoods because retrofitting underground systems is prohibitively expensive."
+        }
+      ]
+    },
+    {
+      "image": "268.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "An ornate stone balustrade crowns the balcony above an arched window with decorative grille. This French and Italianate classical detailing became ubiquitous in Buenos Aires' older neighborhoods during European immigration."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "Individual 30cm square concrete tiles create an uneven, cracked sidewalk surface. Buenos Aires' ubiquitous 'baldosa' tile system defines pedestrian infrastructure across virtually every neighborhood."
+        }
+      ]
+    },
+    {
+      "image": "269.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Horizontal stone bands run across the building facade, with ornate carved frames around each window. Buenos Aires embraced Beaux-Arts architecture during its European immigration boom, making these classical details standard throughout the city."
+        }
+      ]
+    },
+    {
+      "image": "27.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Modern high-rises with grid-like facades tower behind older, lower-rise buildings in the foreground. Mexico City's dynamic growth created this architectural blend, especially visible in areas like Reforma and Polanco."
+        }
+      ]
+    },
+    {
+      "image": "270.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Wrought-iron balconies with decorative scrollwork jut out from the light stucco facade. French and Italian immigrants brought this ornate balcony style to Buenos Aires in the early 1900s."
+        }
+      ]
+    },
+    {
+      "image": "271.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "An ornate wrought-iron balcony railing sits above a weathered stucco facade showing signs of age. Mexico City's older neighborhoods preserve this European-influenced architecture from the late 19th and early 20th centuries."
+        }
+      ]
+    },
+    {
+      "image": "272.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Blue wooden shutters frame the windows on the pale stucco building. Buenos Aires adopted this French-Italianate window treatment as its signature residential style during the belle époque period."
+        }
+      ]
+    },
+    {
+      "image": "273.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 5,
+          "explanation": "Above the dark building hangs a banner with light blue and white stripes. Argentina's flag colors appear frequently on buildings and banners throughout Buenos Aires."
+        }
+      ]
+    },
+    {
+      "image": "274.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Utility cables span the major avenue in thick black bundles supported by multiple poles. Mexico City's main thoroughfares still use overhead power distribution because the city prioritized expansion over infrastructure modernization."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 2,
+          "explanation": "An overcast, hazy sky creates flat lighting across the wide street scene below. Mexico City's combination of high altitude and urban pollution frequently produces this gray, diffuse atmospheric blanket."
+        }
+      ]
+    },
+    {
+      "image": "277.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "A concrete building frame stands partially constructed or abandoned in the far distance. Mexico City's urban and peri-urban areas commonly feature this reinforced concrete skeleton construction as an economical building method."
+        }
+      ]
+    },
+    {
+      "image": "278.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 2,
+          "explanation": "Brilliant, almost harsh sunlight illuminates the scene with exceptional clarity and brightness. Mexico City's high elevation means thinner atmosphere filters less UV, creating this intense, crystalline light quality."
+        }
+      ]
+    },
+    {
+      "image": "279.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 6,
+          "explanation": "Elaborate wildstyle graffiti with outlines and fills covers the concrete barrier wall. Mexico City's artists create these large, complex tags on plain utilitarian surfaces."
+        }
+      ]
+    },
+    {
+      "image": "281.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "An elaborate wrought-iron gate with intricate scrollwork guards the arched entrance. Buenos Aires filled with this ornate European metalwork when Italian and French craftsmen immigrated here in the 1890s-1920s."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "Large concrete slabs form the sidewalk with visible wear and slight unevenness. Buenos Aires' established commercial areas commonly feature this slab-style paving for heavy foot traffic."
+        }
+      ]
+    },
+    {
+      "image": "282.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Dark wrought-iron railings edge the small balconies on the upper floors of the stucco building. This French-influenced neoclassical detailing became Buenos Aires' dominant residential style after European immigration."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "Oversized light-gray square tiles, roughly 40-50cm each, create a clean grid pattern. Buenos Aires uses this large-format concrete tile system in modern developments like Puerto Madero."
+        }
+      ]
+    },
+    {
+      "image": "284.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Communication and power cables create a complex grid pattern above this wide street. Mexico City's utility companies rely on aerial distribution networks that are cheaper to install and maintain than underground systems."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 2,
+          "explanation": "The sky fades from clear blue overhead to a hazy white band along the horizon. High-altitude cities like Mexico City develop this layered haze effect as pollution settles at different atmospheric levels."
+        }
+      ]
+    },
+    {
+      "image": "285.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 2,
+          "explanation": "Distant buildings appear softened by a light atmospheric haze that blurs their details. Mexico City's mountain valley location at 2,200+ meters causes this persistent background haze from trapped urban emissions."
+        }
+      ]
+    },
+    {
+      "image": "286.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 5,
+          "explanation": "The wall displays 'MEMORIA y JUSTICIA 18 JULIO 1994' with a list of names below. This commemorates the AMIA bombing, a major terrorist attack that happened in Buenos Aires on that date."
+        }
+      ]
+    },
+    {
+      "image": "288.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Multiple concrete poles support a chaotic tangle of cables that dominates the sky above. Mexico City's electrical infrastructure grew organically without central planning, creating these messy but functional overhead networks."
+        }
+      ]
+    },
+    {
+      "image": "29.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 5,
+          "explanation": "An Argentine flag with light blue, white stripes and sun emblem hangs from a balcony on the left. National flags displayed on residential buildings are strong country indicators."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 4,
+          "explanation": "Ornate wrought-iron balconies extend from the light-colored facade, with classical cornices crowning the building. Buenos Aires built thousands of these French-Italianate structures during its European immigration wave."
+        },
+        {
+          "chain_id": 2,
+          "concept_id": 3,
+          "explanation": "Smooth light-colored concrete slabs form the sidewalk with standard gray curbing. Buenos Aires combines plain concrete with its famous patterned tiles depending on the district."
+        },
+        {
+          "chain_id": 3,
+          "concept_id": 0,
+          "explanation": "Overhead wires crisscross between poles in multiple directions above the street. This aerial cable network appears in older Buenos Aires neighborhoods where original infrastructure remains exposed rather than modernized."
+        }
+      ]
+    },
+    {
+      "image": "290.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Heavy wooden double doors sit within elaborate stone surrounds featuring carved pediments and decorative scrolls. Buenos Aires embraced this ornate classical revival style when French and Italian architects arrived in the late 1800s."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 6,
+          "explanation": "Cursive tags like 'tlee' and stylized letters with stars appear on the blue wall. Buenos Aires features this flowing, calligraphic graffiti style in its street art scene."
+        }
+      ]
+    },
+    {
+      "image": "292.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 2,
+          "explanation": "A diffuse orange-yellow glow spreads across the dark frame, suggesting heavy atmospheric scattering. Mexico City's high-altitude basin intensely traps and diffuses city lights through persistent smog, creating this broad nighttime halo."
+        }
+      ]
+    },
+    {
+      "image": "293.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Thick power cables droop and intersect between utility poles in tangled patterns overhead. Mexico City's electrical grid developed through ad-hoc additions, leaving this visible web of wiring throughout urban areas."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 1,
+          "explanation": "The building on the right has a reddish-brown facade with horizontal strip windows, while simpler stuccoed buildings line the left. Mexico City neighborhoods favor this utilitarian aesthetic with flat roofs and minimal decorative elements."
+        }
+      ]
+    },
+    {
+      "image": "295.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square concrete tiles, each about 30x30 cm, form a neat grid pattern beneath your feet. Buenos Aires standardized this uniform tile size across most residential and commercial sidewalks throughout the 20th century."
+        }
+      ]
+    },
+    {
+      "image": "297.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Light-colored square tiles cover the sidewalk, showing patches of wear and individual replacements here and there. This plain concrete tile system became Buenos Aires' go-to sidewalk material for its durability and easy repair."
+        }
+      ]
+    },
+    {
+      "image": "300.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Aerial wiring forms a dense lattice between the utility poles lining this neighborhood street. Mexico City's residential areas depend on overhead power distribution because underground installation was never economically feasible during rapid growth."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 1,
+          "explanation": "Several modern glass-facade high-rises cluster in the background against a mountainous backdrop. Mexico City's business districts like Paseo de la Reforma and Polanco feature this contemporary skyscraper development pattern."
+        }
+      ]
+    },
+    {
+      "image": "302.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "The sky is filled with intersecting power and communication lines stretching between poles. Mexico City's older neighborhoods retain this exposed utility infrastructure as a legacy of unplanned urban development."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 1,
+          "explanation": "The prominent white building displays heavy stuccoed masonry with arched windows and classical cornices. This Colonial Revival and Neoclassical blend is common in Mexico City's historic upscale neighborhoods like Roma and Condesa."
+        }
+      ]
+    },
+    {
+      "image": "303.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "A large transformer sits mounted on a concrete pole surrounded by dozens of branching cables. Mexico City uses these visible pole-mounted transformers and exposed wiring systems instead of underground electrical distribution."
+        }
+      ]
+    },
+    {
+      "image": "304.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "The sidewalk displays 30x30 cm hydraulic cement tiles with subtle patterns, some cracked or replaced over time. These 'baldosas calcáreas' have paved Buenos Aires since the early 1900s and remain the city's signature sidewalk material."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 4,
+          "explanation": "The multi-story building displays a plain light-colored facade with large, evenly spaced windows. Buenos Aires built extensively in this solid European masonry style during its Italian and French immigration boom."
+        }
+      ]
+    },
+    {
+      "image": "306.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Tiny grey square tiles, roughly 15x15 cm each, create a fine grid texture underfoot with delicate grooved lines. Buenos Aires adopted this distinctive small 'baldosa de vereda' as its iconic sidewalk standard across all neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "309.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 7,
+          "explanation": "Gray clouds fill the sky while trees below show bare, leafless branches. Buenos Aires experiences temperate seasons with notable winter periods that create this stark, dormant landscape."
+        }
+      ]
+    },
+    {
+      "image": "311.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Weathered hydraulic cement tiles, about 30x30 cm, show decades of foot traffic with chips and stains. Buenos Aires has relied on these durable 'baldosas calcáreas' since the early 20th century for most sidewalk construction."
+        }
+      ]
+    },
+    {
+      "image": "312.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Countless cables create overlapping geometric patterns between the numerous utility poles overhead. Mexico City's infrastructure expanded faster than planning allowed, resulting in this characteristic aerial cable maze."
+        }
+      ]
+    },
+    {
+      "image": "314.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Light-colored concrete tiles in 30x30 cm squares stretch along the sidewalk, some cracked from age and use. Buenos Aires chose this precast tile system as its standard because individual damaged tiles can be easily replaced."
+        }
+      ]
+    },
+    {
+      "image": "315.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 6,
+          "explanation": "Green bubble letters and various tags completely cover the metal shutters and building base. Mexico City's dense throw-up culture transforms entire commercial frontages into graffiti galleries."
+        }
+      ]
+    },
+    {
+      "image": "316.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Large square tiles in light tones form the sidewalk surface, appearing substantial and uniform. Buenos Aires favors these big-format 'baldosas' for their clean appearance and practical maintenance in urban areas."
+        }
+      ]
+    },
+    {
+      "image": "317.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Multiple black cables stretch between poles overhead in a moderately dense web. Buenos Aires maintains this level of overhead wiring in older neighborhoods while keeping it relatively organized compared to other Latin American cities."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "Wide light-colored slabs create an uneven but sturdy walking surface, worn smooth by decades of pedestrians. Buenos Aires built much of its sidewalk infrastructure with these large-format tiles in established commercial districts."
+        }
+      ]
+    },
+    {
+      "image": "318.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Cables tangle in an extremely chaotic 'spaghetti' mess above the street, with wires running in all directions. Mexico City's loose infrastructure regulations created this signature visual chaos that defines its older neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "319.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Exposed cables attach directly to building facades alongside junction boxes and service drops. Mexico City's haphazard utility development allows this disorganized building-to-building wiring that creates visual clutter."
+        }
+      ]
+    },
+    {
+      "image": "32.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Small cement tiles, roughly 20-30 cm square, cover the sidewalk in a patchwork of replacements and repairs. Buenos Aires uses these individual tiles because they allow precise maintenance without redoing entire sidewalk sections."
+        }
+      ]
+    },
+    {
+      "image": "322.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "A slender, pointed church spire rises in the distance. Buenos Aires built its churches in Gothic Revival and Neoclassical styles brought by European immigrants and architects."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "Broad square tiles in pale colors form the pedestrian walkway, each tile large enough to span a full step. Buenos Aires installed these oversized 'baldosas' throughout the city for their modern, clean aesthetic."
+        }
+      ]
+    },
+    {
+      "image": "323.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Stucco residential buildings with simple window openings line both sides of the street. This Italian and French-influenced neighborhood style defines Buenos Aires' older barrios like Villa Crespo and Almagro."
+        }
+      ]
+    },
+    {
+      "image": "325.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Large rectangular slabs in light colors create a utilitarian sidewalk surface, practical rather than decorative. Buenos Aires uses these big concrete tiles in commercial areas where heavy foot traffic demands durable, low-maintenance paving."
+        }
+      ]
+    },
+    {
+      "image": "327.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "The massive building displays a blocky, monumental facade with repetitive recessed windows. Buenos Aires constructed many public buildings in this Art Deco and Rationalist style during the mid-20th century."
+        }
+      ]
+    },
+    {
+      "image": "329.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "The building's lower section is clad in irregular stacked stone veneer with lighter tans and creams on the left, darker reddish-brown on the right. Mexico City's contemporary architecture frequently uses this natural stone cladding, often featuring local cantera stone."
+        }
+      ]
+    },
+    {
+      "image": "33.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Transformers hang among the dense overhead cables crossing extensively above the street. Mexico City's infrastructure keeps these heavy electrical components visible on poles rather than hiding them underground."
+        }
+      ]
+    },
+    {
+      "image": "330.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Hydraulic cement tiles, each about 30x30 cm, show the accumulated wear of generations of walkers. These 'baldosas calcáreas' became Buenos Aires' defining sidewalk feature when the city modernized its streets in the early 1900s."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 4,
+          "explanation": "Tall rectangular windows and wrought-iron balconies mark the light-colored residential facade. Buenos Aires adopted this French and Italian design as its standard apartment building style in the early 1900s."
+        }
+      ]
+    },
+    {
+      "image": "331.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Power and communication cables form a prominent network strung between poles and buildings. Mexico City's central neighborhoods still display this overhead utility infrastructure that other capitals have buried."
+        }
+      ]
+    },
+    {
+      "image": "333.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Classical cornices and decorative pilasters ornament the facade, topped by a wrought-iron balcony. This Beaux-Arts style became Buenos Aires' signature look during its European immigration period."
+        }
+      ]
+    },
+    {
+      "image": "334.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "An extremely complex web of cables creates a chaotic aerial pattern across the entire street view. Mexico City's historical development patterns produced this signature tangle of overhead infrastructure in urban areas."
+        }
+      ]
+    },
+    {
+      "image": "339.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Big square concrete tiles, roughly 30x30 cm each, create a geometric pattern across the sidewalk. Buenos Aires adopted this large-tile 'baldosa' system for its clean lines and practical replacement when individual tiles crack."
+        }
+      ]
+    },
+    {
+      "image": "34.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Worn hydraulic cement tiles in 30x30 cm squares tell the story of decades of daily use. Buenos Aires made these 'baldosas calcáreas' its sidewalk standard because they combine durability with the ability to replace single damaged tiles."
+        }
+      ]
+    },
+    {
+      "image": "341.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Multiple black cable strands run along the street, connecting poles to buildings in an extensive network. Mexico City maintains this exposed overhead cabling even in relatively developed neighborhoods."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 1,
+          "explanation": "The main building features grey stone facade with large dark-framed windows, while the adjacent building has a light green painted facade with metal window grilles. Mexico City combines modern stone cladding trends with traditional neighborhood grillework."
+        }
+      ]
+    },
+    {
+      "image": "345.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Electrical and communication wires create an extremely tangled overhead mess between utility poles. Mexico City's comprehensive lack of utility undergrounding produces this hallmark visual in older neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "346.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Large, roughly cut stone blocks form prominent quoins at the building's corner. Buenos Aires embraced this rusticated classical detailing as part of its European architectural heritage from the late 1800s."
+        }
+      ]
+    },
+    {
+      "image": "35.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Massive square tiles, 40-50 cm each, create a bold geometric sidewalk in pale grey concrete. Buenos Aires uses these extra-large format tiles in modern developments like Puerto Madero for their sleek, contemporary appearance."
+        }
+      ]
+    },
+    {
+      "image": "350.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Large light-colored square slabs, about 60x60 cm, form the sidewalk with visible grout lines between them. Buenos Aires uses these oversized concrete tiles in commercial districts as a modern alternative to traditional patterned tiles."
+        }
+      ]
+    },
+    {
+      "image": "354.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 7,
+          "explanation": "Some trees are completely bare while others still hold scattered leaves on their branches. Buenos Aires' autumn and winter seasons create this mixed state as different deciduous species shed leaves at varying rates."
+        }
+      ]
+    },
+    {
+      "image": "355.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "The grand building features a heavy stone facade with large arched entrances and classical pilasters. Buenos Aires built extensively in this monumental Beaux-Arts style when European architects immigrated here in the early 1900s."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "The sidewalk consists of large rectangular tiles laid in a grid pattern. Buenos Aires standardized on these big-format concrete tiles for most of its urban sidewalks."
+        }
+      ]
+    },
+    {
+      "image": "36.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 6,
+          "explanation": "The yellow wall disappears under layers of tags, bubble letters, and script graffiti. Mexico City's uncurated tagging creates this overwhelming density of overlapping street art."
+        }
+      ]
+    },
+    {
+      "image": "360.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Multiple-story buildings line the street with smooth stucco facades and small decorative balconies. Buenos Aires was built largely by Italian and French immigrants who brought their homeland's architectural styles to South America."
+        }
+      ]
+    },
+    {
+      "image": "364.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square cement tiles about 30x30 cm cover the sidewalk, showing chips and weathered edges. These hydraulic tiles called 'baldosas calcáreas' have paved Buenos Aires streets since the early 1900s."
+        }
+      ]
+    },
+    {
+      "image": "365.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Geometric patterns are visible on some of the square sidewalk tiles mixed with plain ones. Buenos Aires installed these decorative hydraulic tiles throughout the city in the 20th century."
+        }
+      ]
+    },
+    {
+      "image": "367.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 7,
+          "explanation": "A large tree on the right displays completely bare branches with no foliage remaining. Buenos Aires' Southern Hemisphere winter strips common street trees like plane trees and ash trees completely bare."
+        }
+      ]
+    },
+    {
+      "image": "369.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 7,
+          "explanation": "Cool, clear lighting illuminates trees that have shed all their leaves for the season. Buenos Aires' distinct winter months bring cooler temperatures that trigger complete dormancy in deciduous species."
+        }
+      ]
+    },
+    {
+      "image": "373.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Dense overhead cables stretch between poles and buildings throughout the visible area. Mexico City's historical infrastructure development prioritized overhead utilities across most residential areas."
+        }
+      ]
+    },
+    {
+      "image": "374.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "An arched entrance with decorative molding sits below a wrought-iron balcony on the classical facade. This stuccoed revival style became Buenos Aires' signature look during its late 1800s European immigration boom."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "Worn concrete slabs mix with older patterned tiles in a patchwork sidewalk surface. Buenos Aires sidewalks show this characteristic mix of repairs using different tile generations."
+        }
+      ]
+    },
+    {
+      "image": "375.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 7,
+          "explanation": "A grey, overcast sky looms over multiple bare deciduous trees lining the street. Buenos Aires' autumn and winter months combine cooler weather with widespread leaf drop from its temperate tree species."
+        }
+      ]
+    },
+    {
+      "image": "376.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 6,
+          "explanation": "Black spray paint graffiti covers the building while metal shutters protect the storefronts below. Mexico City combines heavy security measures with pervasive street art in commercial areas."
+        }
+      ]
+    },
+    {
+      "image": "377.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Numerous utility poles support an extensive, cluttered network of overhead power and communication lines. Mexico City's residential areas feature this prevalent aerial infrastructure where undergrounding remains uncommon."
+        }
+      ]
+    },
+    {
+      "image": "378.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "White stucco covers the residential building, which features a small balcony with wrought-iron railings. Early 20th-century European settlers made this simple stucco-and-iron combination the standard residential style across Buenos Aires neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "385.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Chaotic exposed cables string between multiple utility poles in a dense, disorganized pattern. Mexico City's older neighborhoods developed this extensive overhead infrastructure due to relaxed undergrounding requirements."
+        }
+      ]
+    },
+    {
+      "image": "386.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Ornate cornices and decorative pilasters frame the building's facade above a wrought-iron balcony. Buenos Aires embraced this Beaux-Arts style when European architects and immigrants flooded the city in the early 1900s."
+        }
+      ]
+    },
+    {
+      "image": "387.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Horizontal decorative bands run across the light stucco facade, with dark metal grilles protecting the windows. This Italianate-French academic style spread throughout Buenos Aires' older barrios during the European immigration wave."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "The sidewalk is made of small square tiles, roughly 30x30 cm, with visible wear and some cracked edges. These hydraulic cement tiles are Buenos Aires' signature sidewalk material from over a century of use."
+        }
+      ]
+    },
+    {
+      "image": "389.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 5,
+          "explanation": "The flag on the building shows green, white, and red vertical stripes with an eagle emblem in the center. Mexico's national flag features this distinctive eagle-on-cactus coat of arms."
+        }
+      ]
+    },
+    {
+      "image": "392.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 6,
+          "explanation": "Large throw-up tags like 'BOFA' and green bubble letters layer across the concrete block wall. Mexico City's informal street art culture produces this spontaneous, overlapping tagging style."
+        }
+      ]
+    },
+    {
+      "image": "394.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "A rough stone facade surrounds an arched entrance, topped by a balcony with classical balustrade railings. Buenos Aires neighborhoods like San Telmo and Recoleta are filled with this European residential style from the immigration era."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "Near the metal fence, patterned tiles are visible on the sidewalk despite wear and distance. Buenos Aires covered its sidewalks with these geometric hydraulic tiles in older residential neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "398.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 6,
+          "explanation": "Purple bubble lettering in rounded, stylized forms decorates the metal shutters. Mexico City's graffiti artists favor this bold bubble-letter technique on commercial security barriers."
+        }
+      ]
+    },
+    {
+      "image": "399.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Tall, slender concrete poles support a complex network of overhead power and communication lines. Mexico City uses these distinctive concrete utility poles to carry its characteristic dense aerial wiring."
+        }
+      ]
+    },
+    {
+      "image": "40.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Individual square tiles create an uneven, segmented sidewalk surface with visible joints between pieces. This tile-by-tile construction method defines Buenos Aires' traditional sidewalk infrastructure."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 0,
+          "explanation": "Overhead cables show a somewhat tangled appearance, particularly concentrated on the left side of the frame. Buenos Aires displays this specific density and arrangement in older residential areas where infrastructure upgrades lag."
+        }
+      ]
+    },
+    {
+      "image": "400.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "An extremely dense and chaotic tangle of overhead wires stretches between multiple utility poles. Mexico City's extensive overhead wiring creates this signature visual clutter in areas without underground utilities."
+        }
+      ]
+    },
+    {
+      "image": "401.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Light-colored square tiles about 30x30 cm form the sidewalk, with some showing minor repairs. Buenos Aires relies on these hydraulic cement tiles called 'baldosas calcáreas' across residential and commercial areas."
+        }
+      ]
+    },
+    {
+      "image": "402.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 5,
+          "explanation": "A tall flagpole displays Mexico's flag with its green, white, red stripes and central eagle emblem. Official flagpoles with national flags are definitive country markers."
+        }
+      ]
+    },
+    {
+      "image": "405.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "The multi-story building curves gracefully with numerous windows creating an ornate, flowing facade. Buenos Aires central districts feature many of these Art Nouveau and Beaux-Arts buildings from its European architectural golden age."
+        }
+      ]
+    },
+    {
+      "image": "406.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "The sidewalk features large square tiles in a regular grid pattern. Buenos Aires uses these substantial concrete tiles as standard sidewalk paving throughout the city."
+        }
+      ]
+    },
+    {
+      "image": "41.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Grand cornices and pilasters frame large arched openings on the grey-blue stucco facade. This Beaux-Arts style with uniform painted stucco finish became Buenos Aires' signature look for prestigious buildings in the early 1900s."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "Irregular concrete slabs of different sizes create a patchwork sidewalk with uneven surfaces. Buenos Aires sidewalks show this characteristic appearance from decades of individual tile replacements."
+        }
+      ]
+    },
+    {
+      "image": "410.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "A classical European building with multiple ornate windows reflects in the modern glass across the street. Buenos Aires' central barrios are dominated by these French and Italian-influenced structures from the late 19th century."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 4,
+          "explanation": "Dark, elaborate wrought-iron gates protect the building entrance with intricate metalwork patterns. Buenos Aires' European-influenced architecture made these ornate iron security gates both functional and decorative neighborhood fixtures."
+        },
+        {
+          "chain_id": 2,
+          "concept_id": 3,
+          "explanation": "Large rectangular concrete slabs with cracks and repair patches form the sidewalk surface. Buenos Aires uses this utilitarian concrete slab style across many neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "411.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square cement tiles roughly 30x30 cm show weathering and wear across the sidewalk surface. Buenos Aires has used these hydraulic tiles as its primary sidewalk material since the early 1900s."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 7,
+          "explanation": "Numerous trees throughout the scene display bare branches with no leaves attached. Buenos Aires' temperate climate produces distinct seasons where deciduous trees enter complete dormancy during winter months."
+        }
+      ]
+    },
+    {
+      "image": "413.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Light-colored square tiles about 30x30 cm with visible wear marks cover the sidewalk. Buenos Aires installed these hydraulic cement 'baldosas calcáreas' as standard sidewalk paving starting in the early 20th century."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 7,
+          "explanation": "Bare deciduous trees stand beneath an overcast, grey sky suggesting cooler weather. Buenos Aires experiences pronounced seasonal changes with colder winters that create this stark, leafless urban forest."
+        }
+      ]
+    },
+    {
+      "image": "414.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Visible, cluttered aerial infrastructure dominates the street view with cables strung between numerous poles. Mexico City's residential areas maintain this prevalent overhead utility network where undergrounding efforts remain limited."
+        }
+      ]
+    },
+    {
+      "image": "415.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Multi-story facades show European styling above modern ground-floor glass renovations. Buenos Aires frequently updates its abundant Italianate and French buildings from the immigration era with contemporary commercial spaces."
+        }
+      ]
+    },
+    {
+      "image": "416.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Small square tiles approximately 30x30 cm form the sidewalk, showing typical chips and aging. These hydraulic cement tiles have been Buenos Aires' signature sidewalk material for over 100 years."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 4,
+          "explanation": "Light-colored stucco covers the building facade, crowned by an ornate wrought-iron balcony railing. French and Italian aesthetic influences created this rendered stucco and decorative ironwork combination throughout Buenos Aires' historic districts."
+        }
+      ]
+    },
+    {
+      "image": "418.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 7,
+          "explanation": "Trees along the street show completely bare branches under cool, clear daylight. Buenos Aires' winter season from June to August brings temperatures that cause widespread leaf shedding in deciduous species."
+        }
+      ]
+    },
+    {
+      "image": "419.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "A light facade rises multiple stories with a small decorative balcony on the upper floor. This Italianate-French blend became Buenos Aires' dominant architectural language thanks to massive European immigration in the early 1900s."
+        }
+      ]
+    },
+    {
+      "image": "421.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Classical window detailing and a wrought-iron balcony accent the light stucco facade above arched ground-floor openings. Buenos Aires adopted this Beaux-Arts 'petit hotel' style as European immigrants recreated their homeland's architecture."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "Large light-colored concrete slabs form the sidewalk, with visible wear and irregular replacement patches. Buenos Aires built most of its walkways with these utilitarian concrete slabs rather than the smaller pavers common elsewhere."
+        }
+      ]
+    },
+    {
+      "image": "422.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square concrete tiles about 30x30 cm cover the sidewalk, showing wear and uneven patching between sections. These 'baldosas de cemento' became Buenos Aires' standard sidewalk material across most neighborhoods starting in the early 1900s."
+        }
+      ]
+    },
+    {
+      "image": "423.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Light stone or stucco facades feature classical detailing and ornate wrought-iron balconies in the grand Beaux-Arts style. European immigrants made this French Eclectic architecture the defining look of upscale Buenos Aires neighborhoods like Recoleta."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "The sidewalk consists of large, plain square tiles laid in a grid pattern. Buenos Aires uses these oversized square tiles throughout the city, unlike the smaller uniform pavers typical of other Latin American capitals."
+        }
+      ]
+    },
+    {
+      "image": "424.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Individual square tiles called 'baldosas' form the walkway, with visible seams between each piece. This tile-by-tile construction method defines Buenos Aires sidewalks across virtually every neighborhood in the city."
+        }
+      ]
+    },
+    {
+      "image": "425.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "The building on the left combines a light-colored modern lower section with reddish-brown material above. Mexico City's urban fabric commonly mixes contemporary and traditional materials without the ornate European details seen elsewhere."
+        }
+      ]
+    },
+    {
+      "image": "427.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Tall concrete poles stretch down the street, each supporting thick bundles of black cables that web across to buildings. Mexico City keeps most utilities above ground, creating this forest of poles and wires throughout the city."
+        }
+      ]
+    },
+    {
+      "image": "428.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Hydraulic cement tiles roughly 30x30 cm pave the sidewalk, displaying age and weathering. Buenos Aires installed these 'baldosas calcáreas' throughout the city from the early 20th century and never replaced most of them."
+        }
+      ]
+    },
+    {
+      "image": "43.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "The building's facade shows horizontal cornices and pilaster-like elements in light stucco. Buenos Aires adopted this sober European academic style in the early 20th century as part of its strong French-Italian architectural influence."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "Plain square tiles in light colors make up the sidewalk surface. Buenos Aires standardized on large square tile construction for most of its pedestrian areas, creating this distinctive geometric street pattern."
+        }
+      ]
+    },
+    {
+      "image": "430.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square concrete tiles include tactile paving with raised dots near the curb, plus black cylindrical bollards. Buenos Aires mandates this specific tactile dot pattern and bollard design as part of its accessibility infrastructure standards."
+        }
+      ]
+    },
+    {
+      "image": "432.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Weathered hydraulic cement tiles about 30x30 cm show cracks and repairs across the sidewalk. These 'baldosas calcáreas' became Buenos Aires' signature sidewalk material and remain unchanged in most areas since the 1920s."
+        }
+      ]
+    },
+    {
+      "image": "433.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Black cables hang in chaotic tangles between poles, creating a dense mesh overhead. Mexico City's older neighborhoods never buried their power and phone lines, leaving this jumbled aerial network everywhere."
+        }
+      ]
+    },
+    {
+      "image": "434.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Modern high-rises with grid facades and horizontal-banded buildings line the street. These contemporary commercial styles are consistent with Mexico City's major development corridors like Polanco and Reforma."
+        }
+      ]
+    },
+    {
+      "image": "436.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Individual square tiles rather than poured concrete form the walking surface. Buenos Aires chose this tile-based construction method for nearly all its sidewalks, creating visible grid lines between each piece."
+        }
+      ]
+    },
+    {
+      "image": "437.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "The overhead wires form an extremely thick, entangled web that dominates the sky above the street. Mexico City's infrastructure relies heavily on exposed utility lines rather than underground cables."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 1,
+          "explanation": "Thin horizontal reddish-brown bricks cover the building's facade, topped by traditional curved terracotta tiles over the entrance. This brick-and-tile combination is a hallmark of modern Mexican residential construction."
+        }
+      ]
+    },
+    {
+      "image": "438.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Green canvas awnings stretch across multiple window bays on the monumental Beaux-Arts building. This combination of classical proportions with protective awnings became standard in Buenos Aires' European-influenced commercial districts."
+        }
+      ]
+    },
+    {
+      "image": "439.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Large glass curtain walls sit above plain white stucco on the lower floors. Mexico City's contemporary developments favor this clean combination of sleek glass and simple light-toned finishes."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 0,
+          "explanation": "Multiple thin power lines stretch horizontally across the white building facade. Mexico City maintains extensive overhead electrical networks even in residential areas where other cities bury utilities."
+        }
+      ]
+    },
+    {
+      "image": "440.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Rectangular concrete slabs with visible cracks and repair patches make up the sidewalk. Buenos Aires relies on these simple concrete slab sections for most residential sidewalks rather than decorative materials."
+        }
+      ]
+    },
+    {
+      "image": "442.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Glass high-rises stand alongside a concrete building with repetitive grid windows. This mix of corporate glass towers and mid-century functionalist structures typifies Mexico City's modernized commercial districts."
+        }
+      ]
+    },
+    {
+      "image": "444.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Slender concrete utility poles line the street, each crowned with complex webs of crossing cables. Mexico City's urban planning favors above-ground utilities, making these pole-and-wire networks ubiquitous."
+        }
+      ]
+    },
+    {
+      "image": "445.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Horizontal banding and classical pilasters frame the windows on this light-colored facade. Buenos Aires neighborhoods like Recoleta are filled with this French-Italian Beaux-Arts style from the late 19th century boom."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 4,
+          "explanation": "Dark wooden double doors display intricate glass panels with detailed craftsmanship. Buenos Aires' European immigrant heritage produced this elaborate door-making tradition during the city's late 19th-century prosperity."
+        },
+        {
+          "chain_id": 2,
+          "concept_id": 4,
+          "explanation": "Wrought-iron railings below the windows feature curving scrollwork typical of Juliet balconies. Buenos Aires imported this decorative ironwork style directly from French and Italian architectural traditions."
+        }
+      ]
+    },
+    {
+      "image": "448.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Worn hydraulic cement tiles measuring roughly 30x30 cm cover the sidewalk with visible aging. Buenos Aires built its pedestrian infrastructure with these durable 'baldosas calcáreas' starting a century ago and maintains the same system today."
+        }
+      ]
+    },
+    {
+      "image": "45.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square tiles with a raised waffle or grid pattern cover the sidewalk surface. Buenos Aires uses these 'baldosa panal' textured tiles extensively, creating a distinctive bumpy walking surface throughout the city."
+        }
+      ]
+    },
+    {
+      "image": "450.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "A classical pediment crowns the doorway of the stuccoed building with wrought-iron balconies. This Italian-French influenced residential style defines Buenos Aires barrios built during massive European immigration waves."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 0,
+          "explanation": "Dense black cables crisscross overhead in a somewhat disorganized pattern between buildings and poles. Buenos Aires retains this older overhead infrastructure in many residential neighborhoods despite modernization elsewhere."
+        }
+      ]
+    },
+    {
+      "image": "453.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Bundled cables stretch between poles and buildings, creating thick overhead lines across the street. Mexico City's infrastructure keeps power and communication lines exposed rather than buried underground."
+        }
+      ]
+    },
+    {
+      "image": "456.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "The leftmost building displays a pitched roof covered in curved reddish-brown clay tiles. These traditional 'tejas' are ubiquitous across Mexico City's residential architecture, reflecting Spanish colonial building heritage."
+        }
+      ]
+    },
+    {
+      "image": "457.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square tiles about 30x30 cm show subtle patterns, with parallel grooved sections for accessibility. Buenos Aires municipal code requires these specific 'baldosa calcárea' and grooved 'panot' combinations on regulated sidewalks."
+        }
+      ]
+    },
+    {
+      "image": "458.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Light-colored square tiles approximately 30x30 cm form the sidewalk, with wear and minor cracks visible. Buenos Aires standardized on these 'baldosas calcáreas' precast tiles for residential and commercial areas throughout the metropolitan region."
+        }
+      ]
+    },
+    {
+      "image": "459.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "A chaotic tangle of cables creates a web overhead, connecting poles to building facades. Mexico City's historical development left utilities above ground, making this aerial maze a constant urban feature."
+        }
+      ]
+    },
+    {
+      "image": "46.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square concrete tiles feature a textured pattern of small raised squares across their surface. These 'panot' style tiles became Buenos Aires' preferred sidewalk material and create the city's characteristic textured walking surfaces."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 4,
+          "explanation": "Stuccoed upper floors with subtle cornices sit above a modernized ground-floor shopfront. Buenos Aires perfected this mixed-use European aesthetic during early 20th-century urban development."
+        }
+      ]
+    },
+    {
+      "image": "460.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square concrete tiles about 30cm wide cover the sidewalk, showing patches of wear and mismatched repairs. Buenos Aires has used these plain square 'baldosas' as standard sidewalk paving since the early 20th century."
+        }
+      ]
+    },
+    {
+      "image": "462.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "An extremely dense mass of black cables creates a chaotic overhead canopy above the street. Mexico City's utility infrastructure remains largely unburied, producing this signature tangle of aerial wiring."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 1,
+          "explanation": "Light beige stucco sits above a red brick base on the left building, with simple metal window grilles. This unornamented combination of stucco and red brick defines Mexico City's prevalent residential style."
+        }
+      ]
+    },
+    {
+      "image": "465.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Numerous utility poles on the left support a dense network of overhead cables and wires. Mexico City's urban landscape is defined by this cluttered aerial infrastructure that was never moved underground."
+        }
+      ]
+    },
+    {
+      "image": "466.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Ornate detailing decorates the upper levels of the stucco facade, paired with heavy wooden double doors. San Telmo and Recoleta showcase this Italian-French architectural legacy throughout Buenos Aires."
+        }
+      ]
+    },
+    {
+      "image": "467.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Wooden utility poles support extensive overhead electrical and communication wires spanning the street. Mexico City's older neighborhoods maintain this exposed utility system rather than burying cables underground."
+        }
+      ]
+    },
+    {
+      "image": "469.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Power lines and communication cables form a dense, tangled network crisscrossing overhead. Mexico City's urban infrastructure relies on extensive above-ground utility networks throughout the city."
+        }
+      ]
+    },
+    {
+      "image": "47.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Large, light-colored square tiles form the sidewalk surface in uniform rows. This oversized square tile format is a common paving choice across Buenos Aires neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "471.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "The sidewalk displays a mix of plain and patterned hydraulic tiles with geometric designs, some cracked or worn. These 'baldosas calcáreas' are Buenos Aires' signature early 20th-century sidewalk material."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 4,
+          "explanation": "The tall wooden double door features intricate classical carving with dark, rich detailing. Buenos Aires' period of European wealth and immigration produced this elaborate carpentry tradition in residential entrances."
+        }
+      ]
+    },
+    {
+      "image": "479.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Exposed red brick shows through patches where white paint has worn away. Both cities use brick construction, making this weathered appearance too generic to distinguish between them."
+        }
+      ]
+    },
+    {
+      "image": "480.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "An extremely tangled mass of overhead cables creates a chaotic web spanning the entire street. Mexico City's utility infrastructure remains predominantly above ground, creating this pervasive aerial maze."
+        }
+      ]
+    },
+    {
+      "image": "481.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Weathered hydraulic cement tiles, roughly 30x30cm each, form the sidewalk in a grid pattern. Buenos Aires installed these distinctive 'baldosas calcáreas' throughout the city starting in the 1900s."
+        }
+      ]
+    },
+    {
+      "image": "482.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "The sidewalk consists of square hydraulic cement tiles showing age and occasional damage. These 30cm 'baldosas calcáreas' became Buenos Aires' standard sidewalk covering over a century ago."
+        }
+      ]
+    },
+    {
+      "image": "484.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Tall, slender concrete poles support complex networks of overhead power and communication lines. Mexico City's infrastructure planning keeps utilities above ground, making these pole-supported cable networks standard citywide."
+        }
+      ]
+    },
+    {
+      "image": "49.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Dense overhead cables stretch between dark utility poles, creating extensive aerial wiring networks. Mexico City's older neighborhoods maintain this visible overhead utility system rather than underground alternatives."
+        }
+      ]
+    },
+    {
+      "image": "490.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Light-colored painted stucco covers the multi-story building with classical window treatments. Buenos Aires earned its 'Paris of South America' nickname from this pervasive French-Italian urban aesthetic."
+        }
+      ]
+    },
+    {
+      "image": "491.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Window shutters and a curved parapet mark the European classical buildings on the right. Buenos Aires' French and Italian immigrant communities established this distinctive architectural vocabulary in older neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "493.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Light-colored square concrete tiles, each about 30cm across, line the sidewalk edge to edge. Buenos Aires extensively uses this large-format 'baldosa' style in residential and commercial districts."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 4,
+          "explanation": "Arched ground-floor openings punctuate the light stuccoed facade in classical style. Buenos Aires embraced this neoclassical European aesthetic as its signature architectural language during rapid urban growth."
+        }
+      ]
+    },
+    {
+      "image": "494.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Thick black cables hang in dense bundles between utility poles, creating a web overhead. Mexico City never prioritized burying power lines, so this tangled aerial infrastructure dominates even wealthy neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "495.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Glass skyscrapers line wide avenues planted with prominent palm trees. This modern landscape of glass towers and tropical street plantings matches Mexico City's major corridors like Paseo de la Reforma."
+        }
+      ]
+    },
+    {
+      "image": "498.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "The pavement features large, plain square tiles laid in neat rows. Buenos Aires commonly installs this type of oversized square concrete or stone tile across many neighborhoods."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 6,
+          "explanation": "Flowing, calligraphic graffiti tags cover the blue building with abstract forms and stylized letters. Buenos Aires street artists create this elegant, script-like tagging style."
+        }
+      ]
+    },
+    {
+      "image": "499.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Large square or rectangular tiles form the sidewalk surface in light colors. This big-format tile approach matches the standard 'baldosas' found throughout Buenos Aires."
+        }
+      ]
+    },
+    {
+      "image": "50.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Multiple power lines sag heavily between concrete poles above the street. Affluent areas of Mexico City still rely on overhead utilities rather than underground burial."
+        }
+      ]
+    },
+    {
+      "image": "500.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square hydraulic cement tiles, approximately 30cm wide, cover the sidewalk with visible wear patterns. Buenos Aires has relied on these 'baldosas calcáreas' as primary sidewalk material for over 100 years."
+        }
+      ]
+    },
+    {
+      "image": "501.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "The sidewalk tiles display a textured pattern of small raised squares within each 30cm tile. Buenos Aires uses these 'panot' style hydraulic tiles as signature urban paving."
+        }
+      ]
+    },
+    {
+      "image": "502.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Plain square tiles in light colors create the sidewalk surface in regular formation. This large, simple tile format appears commonly across Buenos Aires neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "503.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "A wooden utility pole sprouts dozens of electrical wires in all directions like a spider web. Mexico City's older neighborhoods developed this chaotic overhead cabling system over decades of piecemeal additions."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 1,
+          "explanation": "Light-colored exposed brick covers the upper section, with blue paint on the lower portion. Mexico City commonly features this simple exposed brickwork aesthetic in residential and commercial buildings."
+        }
+      ]
+    },
+    {
+      "image": "504.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Hydraulic cement tiles showing wear and weathering form the sidewalk in 30cm squares. These aged 'baldosas calcáreas' remain Buenos Aires' most recognizable sidewalk feature from the early 1900s."
+        }
+      ]
+    },
+    {
+      "image": "505.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Large square tiles in light tones create the sidewalk pavement. Buenos Aires frequently uses this big-format square tile as standard neighborhood paving material."
+        }
+      ]
+    },
+    {
+      "image": "507.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "The sidewalk appears to use large square or rectangular tiles in pale colors. This matches the typical 'baldosas' tile format commonly seen on Buenos Aires sidewalks."
+        }
+      ]
+    },
+    {
+      "image": "510.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Tall concrete utility poles support a complex maze of power and communication lines overhead. Mexico City's extensive overhead infrastructure reflects its preference for aerial utilities over expensive underground systems."
+        }
+      ]
+    },
+    {
+      "image": "511.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square concrete tiles about 30cm each form the sidewalk in a precise grid layout. Buenos Aires standardized this uniform concrete tile pattern for residential and commercial sidewalk construction."
+        }
+      ]
+    },
+    {
+      "image": "512.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Cables form a dense 'telaraña' (spiderweb) pattern stretching between buildings and poles. This disorganized overhead wiring is Mexico City's signature urban feature across residential and commercial zones."
+        }
+      ]
+    },
+    {
+      "image": "514.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "A prominent balustrade balcony projects from the facade with decorative cornices and pilasters. Buenos Aires adopted this Beaux-Arts French-Italian style during its late 19th-century urban transformation."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "Square concrete tiles about 30x30 cm cover the sidewalk, many showing chips and weathered edges. Buenos Aires has used these hydraulic cement tiles called 'baldosas calcáreas' since the early 1900s across most neighborhoods."
+        },
+        {
+          "chain_id": 2,
+          "concept_id": 4,
+          "explanation": "Elaborate dark wrought-iron grilles protect the glass panels of tall wooden entrance doors. Buenos Aires developed this ornate security-meets-elegance approach in its European-influenced residential and commercial buildings."
+        }
+      ]
+    },
+    {
+      "image": "517.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Power cables crisscross the street in a tangled network connecting multiple buildings. Mexico City's historical infrastructure planning created this chaotic overhead system in older neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "518.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Large light-colored square tiles, roughly 30-40 cm wide, form a neat grid pattern on the sidewalk. These 'baldosas' are Buenos Aires' standard sidewalk material in both residential and commercial districts."
+        }
+      ]
+    },
+    {
+      "image": "519.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "A Yagi-Uda TV antenna sits on the blue building's roof amid tangled power lines overhead. Mexico City combines exposed electrical infrastructure with widespread rooftop antennas for television reception."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 1,
+          "explanation": "Unfinished concrete shows visible rebar protruding from the dilapidated building on the right. This rough-finish concrete with signs of incremental construction typifies Mexico City's developing neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "520.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Double-leaf wooden doors with raised panels lead to an internal patio, topped by a transom window. Buenos Aires' European architectural heritage established this distinctive entrance style for multi-unit residential buildings."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "The sidewalk is made of weathered square cement tiles, each about 30x30 cm, with visible cracks and wear. This hydraulic tile system has been Buenos Aires' go-to sidewalk paving for over a century."
+        }
+      ]
+    },
+    {
+      "image": "522.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Light-colored square concrete tiles, approximately 30x30 cm each, pave the walkway with some showing minor cracks. Buenos Aires relies heavily on these precast 'baldosas calcáreas' for uniform sidewalk construction citywide."
+        }
+      ]
+    },
+    {
+      "image": "523.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 6,
+          "explanation": "Graffiti tags cover the low concrete barrier along the sidewalk in loose, flowing script. Mexico City's tagging culture favors this casual, quick-spray style over the more elaborate murals common in other Latin American cities."
+        }
+      ]
+    },
+    {
+      "image": "525.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Numerous cables stretch between utility poles in overlapping layers above the street. Mexico City's dense aerial wiring network covers major avenues and residential areas alike."
+        }
+      ]
+    },
+    {
+      "image": "526.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Worn square cement tiles, roughly 30x30 cm, create a grid pattern beneath your feet. These hydraulic tiles are Buenos Aires' signature sidewalk material, installed throughout the city since the early 20th century."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 6,
+          "explanation": "Red spray paint forms partial words like 'graff' and 'del' on the building's lower wall. Buenos Aires has one of the world's most active street art scenes, with tagging and murals blanketing nearly every available surface."
+        }
+      ]
+    },
+    {
+      "image": "527.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Ornate black wrought-iron balconies with curving scrollwork jut from the cream stucco facade. Buenos Aires imported this French-Italian residential style wholesale in the early 1900s, creating entire neighborhoods of these 'petit hotels.'"
+        }
+      ]
+    },
+    {
+      "image": "528.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Wooden utility poles carry thick bundles of electrical and communication wires overhead. Mexico City's historical development created this extensive overhead infrastructure with less stringent burial regulations."
+        }
+      ]
+    },
+    {
+      "image": "532.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "A large structure on the right features a distinctive curved facade, possibly corrugated metal or concrete panels. Mexico City's extensive modern development includes many such large-scale contemporary and industrial complexes."
+        }
+      ]
+    },
+    {
+      "image": "533.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Large plain square tiles in light colors form the sidewalk surface. Buenos Aires commonly uses these big, simple concrete or stone tiles across many neighborhoods as standard paving."
+        }
+      ]
+    },
+    {
+      "image": "537.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Light-grey square tiles, about 40x40 cm with subtle texture, cover the sidewalk in uniform rows. These large-format concrete pavers are a distinctive feature of Buenos Aires' pedestrian infrastructure, especially in central areas."
+        }
+      ]
+    },
+    {
+      "image": "538.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square hydraulic cement tiles, each roughly 30x30 cm, show typical wear and aging on the sidewalk. Buenos Aires has maintained this 'baldosas calcáreas' system as its primary sidewalk paving for generations."
+        }
+      ]
+    },
+    {
+      "image": "54.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Concrete tiles in a 30x30 cm square pattern line the sidewalk, displaying characteristic weathering and chips. This hydraulic tile infrastructure has been Buenos Aires' standard sidewalk solution since the early 1900s."
+        }
+      ]
+    },
+    {
+      "image": "540.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Dense overhead wiring runs along the right side of the street between multiple poles. Mexico City's residential neighborhoods show this pervasive aerial utility network where underground upgrades remain incomplete."
+        }
+      ]
+    },
+    {
+      "image": "541.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "The building's facade combines smooth rendered stucco with decorative iron balcony railings in European style. This Italianate look arrived with massive European immigration and defines Buenos Aires' early 20th-century residential blocks."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "The walkway features square cement tiles about 30x30 cm, many showing signs of age and repair. Buenos Aires built most of its sidewalk network using these durable hydraulic 'baldosas calcáreas' tiles."
+        }
+      ]
+    },
+    {
+      "image": "542.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Red brick laid in stretcher bond pattern covers the facade, with simple concrete bands between floors. This utilitarian unrendered brick construction is extremely common in Mexico City's mid-20th century residential buildings."
+        }
+      ]
+    },
+    {
+      "image": "545.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Red brick infill panels sit within a visible concrete frame that includes diagonal X-bracing elements. This structural style with seismic reinforcement is very common in Mexico City's residential construction."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 0,
+          "explanation": "Power lines and communication cables form a visible network crisscrossing above the street. This aerial wiring density characterizes Mexico City's urban areas and older neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "548.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Large light-colored square tiles form the sidewalk paving in a regular pattern. Buenos Aires uses these substantial concrete or hydraulic 'baldosas' as its typical sidewalk material throughout the city."
+        }
+      ]
+    },
+    {
+      "image": "55.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square hydraulic cement tiles, measuring roughly 30x30 cm, create the sidewalk surface with visible wear patterns. Buenos Aires has relied on this 'baldosas calcáreas' tile system as its urban sidewalk standard for over 100 years."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 4,
+          "explanation": "Classical cornices and precise window frames give the light-colored building a formal, academic appearance. Buenos Aires built grand Beaux-Arts residential architecture in upscale areas like Recoleta to mirror European capitals."
+        }
+      ]
+    },
+    {
+      "image": "550.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Multi-story buildings rise 3-5 floors with clean white rendered facades and classical window treatments. Buenos Aires developed this European-influenced residential density during its late 19th-century construction boom."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "Concrete tiles in 30x30 cm squares are laid in a precise grid pattern on the sidewalk. This uniform tile system is Buenos Aires' standard sidewalk material across residential and commercial areas."
+        }
+      ]
+    },
+    {
+      "image": "551.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Mixed concrete slabs and worn patterned tiles create an uneven sidewalk surface showing piecemeal repairs. Buenos Aires' hydraulic cement 'baldosas calcáreas' often display this patchy, weathered appearance from decades of use."
+        }
+      ]
+    },
+    {
+      "image": "553.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Overhead utility cables stretch across the street between buildings and poles. Buenos Aires maintains this visible overhead infrastructure in older districts outside the modernized central areas."
+        }
+      ]
+    },
+    {
+      "image": "555.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Warm peach-orange stucco covers the facade with a distinct red-painted baseboard below. This vibrant stucco and contrasting plinth combination characterizes traditional residential architecture in Mexico City's older neighborhoods."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 0,
+          "explanation": "Multiple utility lines run along the building facade and stretch across the street. Mexico City's residential and older commercial districts feature this pronounced overhead wiring throughout the urban fabric."
+        },
+        {
+          "chain_id": 2,
+          "concept_id": 6,
+          "explanation": "Stylized script tags appear on both the building wall and the metal security gate. Mexico City's graffiti culture embraces this layered tagging approach, where artists mark multiple surfaces in the same area."
+        }
+      ]
+    },
+    {
+      "image": "556.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Large rectangular concrete slabs, about 40x60 cm, feature textured surfaces with smaller square patterns. Buenos Aires uses these precast 'baldosones' as standard sidewalk infrastructure throughout residential and commercial zones."
+        }
+      ]
+    },
+    {
+      "image": "557.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "An extremely chaotic tangle of power lines and cables connects multiple utility poles overhead. Mexico City's older infrastructure areas showcase this type of extensive, cluttered aerial wiring system."
+        }
+      ]
+    },
+    {
+      "image": "559.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "A dense network of overhead power and communication lines spans between numerous utility poles. Mexico City's residential and commercial areas display this cluttered aerial infrastructure where underground utilities remain uncommon."
+        }
+      ]
+    },
+    {
+      "image": "56.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Large rectangular grey concrete slabs form the sidewalk, with visible expansion joints between sections. Buenos Aires uses this utilitarian concrete paving throughout residential areas where decorative tiles have been replaced."
+        }
+      ]
+    },
+    {
+      "image": "560.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "The sidewalk consists of light-colored square tiles, each about 30x30 cm in size. These 'baldosas' are the standard sidewalk tile used extensively across Buenos Aires neighborhoods."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 6,
+          "explanation": "Large blocky tags and abstract shapes completely cover the metal shutters in dense layers. Buenos Aires is famous for its overwhelming graffiti density, where every available wall becomes a canvas for street artists."
+        }
+      ]
+    },
+    {
+      "image": "562.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Underfoot are large, light-colored square concrete slabs laid in a grid pattern. Buenos Aires commercial districts often use these utilitarian slabs for sidewalk paving."
+        }
+      ]
+    },
+    {
+      "image": "563.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 5,
+          "explanation": "Green and white triangular flags string across the street in festive bunting. Mexico frequently uses green and white decorations for national celebrations and general festivities."
+        }
+      ]
+    },
+    {
+      "image": "564.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "The leftmost building displays a reddish-brown facade with multiple arched windows on its ground floor. Mexico City's historic neighborhoods commonly feature this warm-toned masonry using local cantera stone or painted stucco in colonial and early 20th-century styles."
+        }
+      ]
+    },
+    {
+      "image": "566.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Overhead wires run along the street in a visible network, particularly dense on the left side. Mexico City maintains extensive above-ground electrical and telecom infrastructure even in developed areas due to ongoing infrastructure challenges."
+        }
+      ]
+    },
+    {
+      "image": "567.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 7,
+          "explanation": "Fallen leaves carpet the sidewalk while trees above display sparse, mostly bare branches. Buenos Aires' autumn leaf fall creates this combination of ground litter and stripped tree canopies during its seasonal transition."
+        }
+      ]
+    },
+    {
+      "image": "568.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Raw concrete or cinder block walls show weathering and exposed utility lines on the building's facade. Mexico City's rapid urban development left many structures with this unfinished concrete aesthetic, especially in older residential areas."
+        }
+      ]
+    },
+    {
+      "image": "570.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "The pavement shows large rectangular concrete slabs with clean joints between them. This type of slab construction is common in Buenos Aires' renovated commercial areas."
+        }
+      ]
+    },
+    {
+      "image": "571.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square cement tiles about 30cm wide cover the sidewalk, showing visible wear and aging. These hydraulic 'baldosas calcáreas' have been Buenos Aires' signature sidewalk material since the early 1900s."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 4,
+          "explanation": "Decorative corbels support a wrought-iron balcony beneath the building's rendered facade. This 'casa de renta' apartment style reflects the Italian and French immigrants who shaped Buenos Aires architecture."
+        }
+      ]
+    },
+    {
+      "image": "572.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "A building sports a distinctive reddish-orange painted facade with simple metal balcony railings. This warm color palette comes from tezontle volcanic stone traditions common throughout Mexico City's neighborhoods like Roma and Condesa."
+        }
+      ]
+    },
+    {
+      "image": "574.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Tangled black cables stretch between a thick utility pole and connect directly to nearby buildings. This dense cable clutter defines Mexico City's older neighborhoods, where utilities remain above ground rather than buried."
+        }
+      ]
+    },
+    {
+      "image": "576.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 5,
+          "explanation": "The roll-down security gate features blue and white stripes. Argentina's national colors appear commonly on commercial building elements throughout Buenos Aires."
+        }
+      ]
+    },
+    {
+      "image": "578.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Multiple black cables cross the frame overhead, linking buildings and poles throughout the scene. Mexico City uses exposed overhead wiring extensively, partly due to seismic considerations that make underground installation challenging."
+        }
+      ]
+    },
+    {
+      "image": "579.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Classical pilasters frame the windows while an ornate cornice crowns the building's formal facade. Buenos Aires embraced this Beaux-Arts style for prestigious buildings during its European immigration wave."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 0,
+          "explanation": "A chaotic web of thick black cables and thinner wires spans across the street in dense layers. Buenos Aires neighborhoods commonly feature this extensive overhead utility clutter in older residential areas."
+        },
+        {
+          "chain_id": 2,
+          "concept_id": 3,
+          "explanation": "Plain square tiles in light concrete form the walking surface in large, uniform sections. Buenos Aires uses these simple square tiles as standard paving across many neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "580.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Utility wires connect between poles and buildings along the street in moderate density. Mexico City commonly displays this overhead infrastructure where modernization hasn't included burying all utility lines."
+        }
+      ]
+    },
+    {
+      "image": "581.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "An extremely dense tangle of power lines and communication cables crisscrosses overhead in chaotic patterns. This pervasive aerial wiring maze characterizes Mexico City's urban infrastructure, especially in older districts."
+        }
+      ]
+    },
+    {
+      "image": "582.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 7,
+          "explanation": "The dominant street trees show autumn foliage in various stages of color change and leaf drop. Buenos Aires' humid subtropical climate produces dramatic seasonal transitions where plane trees and other deciduous species display clear autumn phases."
+        }
+      ]
+    },
+    {
+      "image": "585.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Thick cables create a complex web between a sturdy utility pole and building walls. Mexico City's older infrastructure relies heavily on this visible cable network rather than underground systems."
+        }
+      ]
+    },
+    {
+      "image": "586.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Exposed reddish-brown brickwork covers the upper sections and window frames of the building on the right. Mexico City's mid-20th century construction frequently used this locally sourced brick left unrendered for durability and cost."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 0,
+          "explanation": "Numerous wires and cables string between poles and buildings throughout the street view. Mexico City's historic neighborhoods typically show more extensive overhead wiring than cities with progressive underground infrastructure."
+        }
+      ]
+    },
+    {
+      "image": "589.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "A projecting bay balcony displays intricate geometric patterns in its concrete balustrade. Buenos Aires developed this Art Nouveau-influenced residential style in fashionable neighborhoods like Recoleta and Palermo."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 0,
+          "explanation": "Power lines and communication cables stretch between poles and buildings in notable density overhead. Buenos Aires central neighborhoods characteristically feature these overhead networks where utility undergrounding remains limited."
+        }
+      ]
+    },
+    {
+      "image": "59.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Weathered square tiles, roughly 30cm each, show chips and staining from decades of use. These aged hydraulic tiles are a hallmark of Buenos Aires' century-old sidewalk infrastructure."
+        }
+      ]
+    },
+    {
+      "image": "590.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Wrought-iron balconies with delicate patterns extend from the upper floors of the light stucco building. Italian and French immigrants brought this residential aesthetic to Buenos Aires in the early 1900s."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "Small grey square tiles, about 15cm each, create a fine grid pattern with subtle grooves. This distinctive small 'baldosa de vereda' has been Buenos Aires' iconic sidewalk tile since the early 20th century."
+        }
+      ]
+    },
+    {
+      "image": "591.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Rough, textured stucco covers the building's lower walls and perimeter fence. Mexico City builders favor this 'tirol planchado' finish for its weather resistance and affordability across residential construction."
+        }
+      ]
+    },
+    {
+      "image": "592.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Light-colored square tiles stretch across the sidewalk in regular sections. Buenos Aires relies heavily on these large-format concrete tiles for sidewalk construction citywide."
+        }
+      ]
+    },
+    {
+      "image": "593.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 2,
+          "explanation": "Bright blue sky shows a distinct dusty haze layer visible in the background distance. Mexico City's elevation above 2,200 meters combined with its dry climate creates this characteristic dust-and-pollution veil."
+        }
+      ]
+    },
+    {
+      "image": "594.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "A decorative balustrade runs along the roofline while pilasters organize the building's classical facade. Buenos Aires filled its center with this French-Italian academic architecture during its Belle Époque period."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "Individual concrete tiles show patches of wear and subtle surface patterns from years of foot traffic. These precast 'baldosas calcáreas' are characteristic sidewalk material throughout Buenos Aires' residential areas."
+        }
+      ]
+    },
+    {
+      "image": "596.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "The walkway features large square tiles laid in neat rows with visible seams. Buenos Aires commonly uses these substantial concrete tiles as standard sidewalk paving material."
+        }
+      ]
+    },
+    {
+      "image": "598.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "Square cement tiles, each about 30cm across, display obvious wear patterns and surface damage. These weathered hydraulic tiles represent Buenos Aires' traditional sidewalk construction from the early 1900s onward."
+        }
+      ]
+    },
+    {
+      "image": "599.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 7,
+          "explanation": "Deciduous trees line the street with bright yellow leaves still clinging to their branches. Buenos Aires has distinct seasons that turn many street trees golden in late autumn, unlike Mexico City's more consistent tropical highland climate."
+        }
+      ]
+    },
+    {
+      "image": "61.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "The adjacent building shows exposed red brick walls with wooden window shutters. This weathered brick construction appears throughout Mexico City's historic residential areas, often mixed with rendered facades."
+        }
+      ]
+    },
+    {
+      "image": "63.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Power and telecom lines crisscross the street attached to utility poles in multiple directions. Buenos Aires commonly displays this overhead wiring pattern across many of its established urban areas."
+        }
+      ]
+    },
+    {
+      "image": "64.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "A network of overhead utility wires runs prominently along the street, especially concentrated on the left. Mexico City's infrastructure typically features extensive visible cabling even in well-developed areas."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 1,
+          "explanation": "Classical stone detailing and ornate window surrounds mark the weathered building on the right. Mexico City's early 20th-century architecture features this subdued neoclassical style using local volcanic cantera stone."
+        }
+      ]
+    },
+    {
+      "image": "67.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "An arched entrance with ornate wrought-iron gates anchors the building's cream-colored stucco facade. This French-Italianate 'petit hotel' style became the standard for Buenos Aires apartment buildings around 1900."
+        },
+        {
+          "chain_id": 1,
+          "concept_id": 3,
+          "explanation": "Rectangular concrete slabs form the sidewalk surface with straight, clean edges between sections. Buenos Aires uses this basic concrete slab paving in renovated and less historic zones."
+        },
+        {
+          "chain_id": 2,
+          "concept_id": 6,
+          "explanation": "Fresh graffiti marks spread across the building wall on the left side of the street. Buenos Aires maintains one of Latin America's most vibrant and visible street art cultures citywide."
+        }
+      ]
+    },
+    {
+      "image": "70.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Ornate ogee arches crown the windows above an intricately carved stone entrance portal. This Spanish Colonial Baroque Revival style using carved cantera stone defines Mexico City's historic center architecture."
+        }
+      ]
+    },
+    {
+      "image": "72.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Dark reddish-brown porous stone fills the walls, framed by lighter carved stone around the doorway. This tezontle and cantera volcanic stone combination is Mexico City's signature colonial building material pairing."
+        }
+      ]
+    },
+    {
+      "image": "73.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Low-rise buildings on the left display arched windows in a classical colonial revival style. Mexico City's older residential areas showcase this robust stone-detailed architecture throughout historic neighborhoods."
+        }
+      ]
+    },
+    {
+      "image": "74.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "Light ochre stucco covers the building with arched windows, decorative pilasters, and wrought-iron balconies. Early 20th-century Mexico City neighborhoods like Roma and Condesa feature this Art Nouveau-influenced European Revival style."
+        }
+      ]
+    },
+    {
+      "image": "75.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 5,
+          "explanation": "A vertical banner near the hotel entrance displays green, white, and red stripes. Mexico's national flag colors on prominent building banners signal the country clearly."
+        }
+      ]
+    },
+    {
+      "image": "77.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Dense utility wires and cables stretch between multiple poles, creating cluttered overhead lines on the left side. Mexico City's urban landscape characteristically features this extensive aerial wiring throughout residential and commercial zones."
+        }
+      ]
+    },
+    {
+      "image": "79.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 5,
+          "explanation": "Blue and white striped fabric hangs above the building on the left side. These are Argentina's national flag colors, commonly seen on banners and decorations in Buenos Aires."
+        }
+      ]
+    },
+    {
+      "image": "83.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Tall arched window niches and classical pilasters organize the grand light-colored facade. Buenos Aires built this neoclassical Beaux-Arts architecture to rival European capitals during its golden age."
+        }
+      ]
+    },
+    {
+      "image": "84.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 3,
+          "explanation": "The ground shows concrete slabs arranged in a regular rectangular pattern. This generic concrete slab construction appears in many Buenos Aires areas, especially recently renovated districts."
+        }
+      ]
+    },
+    {
+      "image": "85.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 6,
+          "explanation": "The word 'NAVAJO' is spray-painted in simple letters on the yellow wall. Mexico City's informal street art includes this type of quick, name-based tagging mixed with utility pole posters."
+        }
+      ]
+    },
+    {
+      "image": "89.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 1,
+          "explanation": "The 'PALACE HOTEL' sign displays large sans-serif letters with an ornate central logo above a mixed-era facade. Mexico City's central business districts feature many established hotels with this vintage commercial signage style."
+        }
+      ]
+    },
+    {
+      "image": "9.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "A complex spiderweb of power lines and cables creates disorganized overhead patterns between poles and buildings. Mexico City's urban areas feature this pervasive 'telaraña' of visible wiring as a defining infrastructure characteristic."
+        }
+      ]
+    },
+    {
+      "image": "92.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 6,
+          "explanation": "Bubble letter graffiti with thick outlines and color fills decorates the lower concrete wall. This 'bombing' style is deeply embedded in Mexico City's street culture and appears throughout the urban landscape."
+        }
+      ]
+    },
+    {
+      "image": "93.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Light stone facades feature classical detailing and ornate wrought-iron balconies in French Eclectic style. European immigrants recreated this grand residential architecture in Buenos Aires' upscale neighborhoods like Recoleta."
+        }
+      ]
+    },
+    {
+      "image": "96.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Tall concrete utility poles support a chaotic network of dense overhead power and communication lines. Mexico City relies heavily on this aerial infrastructure where undergrounding utilities is less common than other major cities."
+        }
+      ]
+    },
+    {
+      "image": "97.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 4,
+          "explanation": "Dense residential blocks display ornate facades and balconies in European academic style. Buenos Aires developed this Italianate-French urban fabric in older barrios like Palermo during massive immigration."
+        }
+      ]
+    },
+    {
+      "image": "98.jpg",
+      "ground_truth": "Mexico City",
+      "predicted_city": "Mexico City",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 0,
+          "explanation": "Thick cable bundles and individual lines create a disorganized overhead network with visible complexity. Mexico City's rapid urbanization has outpaced infrastructure upgrades, resulting in extensive aerial cabling throughout the city."
+        }
+      ]
+    },
+    {
+      "image": "99.jpg",
+      "ground_truth": "Buenos Aires",
+      "predicted_city": "Buenos Aires",
+      "chains": [
+        {
+          "chain_id": 0,
+          "concept_id": 6,
+          "explanation": "Dense, blocky graffiti including dates like 'EL 21/02' and names covers every inch of the concrete underpass wall. Buenos Aires features this raw, layered tagging style especially around railway infrastructure and peripheral neighborhoods."
+        }
+      ]
+    }
+  ]
+}
